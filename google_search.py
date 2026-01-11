@@ -2,13 +2,8 @@ import requests
 import json
 import login
 
-# auth = "U0000341401"
-# password = "PW_1fc56866964abc72a4bb95e70027b814b"
-# token = "VTAwMDAzNDE0MDE6UFdfMWZjNTY4NjY5NjRhYmM3MmE0YmI5NWU3MDAyN2I4MTRi"
-auth = login.auth
-password = login.password
+
 token = login.token
-# patrykkonst123A#
 
 
 def collect_data(search_by: str, page_from: int = 1, page_count: int = 10):
