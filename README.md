@@ -1,20 +1,23 @@
 # Decodo Google Scraper
 
-CLI aplikacja w Pythonie do uruchamiania scrapera Google Search z użyciem Decodo Scraper API.
+CLI App skirtas naudodis Decodo
 
-## Instalacja Pythona
+## Bendri reikalavimai
+- Python 3.10 arba daugiau
+- GIT instaliacijos
+- Autentifikacijos Decodo
 
-Projekt wymaga Pythona w wersji 3.9 lub nowszej.
+## Python Install
 
-Pobierz Pythona z:
+Atsisiunčiame python iš:
 https://www.python.org/downloads/
 
-Podczas instalacji na Windows zaznacz:
+Instaliuojant pažymėti:
 Add Python to PATH
 
-## Sprawdzenie wersji Pythona
+## Check version (optional)
 
-Po instalacji otwórz terminal i sprawdź wersję:
+Terminale paleidžiame komanda (Terminalo įjungimas žemiau):
 
 ```bash
 python --version
@@ -34,6 +37,7 @@ git --version
 ## Terminalo atidarymas
 
 Atidarome terminala folderyje, kur gulės projektas.
+Prieš tai galime pasidaryti tuščia folderį skrita projekto failams
 
 ![Terminal](readme_data/Terminal.png)
 
@@ -64,3 +68,21 @@ Terminale įrašome komandą:
 python run.py --search_by homeopatija --page_from 1 --page_count 10
 ```
 
+## Projekto stkrūktura:
+
+decodo/
+├── output/ 
+│ ├── excel_output/ # failai kurie bus paduodami GPT
+│ │ ├── data_homeopatija_1_1.xlsx
+│ │ └── data_homeopatija_1_10.xlsx
+│ └── google_output/ # tai, ką gauname iš google search
+│ ├── response_homeopatija_1_1.json
+│ └── response_homeopatija_1_10.json
+├── readme_data/ 
+│ └── Terminal.png # Kaip rasti terminalą
+├── google_search.py 
+├── scraper_links.py 
+├── login.py # Failas, kuris reikalingas autentifikacijai
+├── requirements.txt # Naudojamos bibliotekos
+├── run.py # Paleidimas
+└── README.md # Dokumentacija
