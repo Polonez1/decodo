@@ -14,6 +14,7 @@ def collect_data(search_by: str, page_from: int = 1, page_count: int = 10):
         "query": search_by,
         "headless": "html",
         "locale": "lt-lt",
+        "geo": "Lithuania",
         "page_from": page_from,
         "google_results_language": "en",
         "parse": True,
