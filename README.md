@@ -44,7 +44,7 @@ Prieš tai galime pasidaryti tuščia folderį skrita projekto failams
 ## Klonuojame GIT repozitoriją
 
 ```bash
-git clone https://github.com/your-username/decodo.git
+git clone https://github.com/Polonez1/decodo
 ```
 
 ## Instaliuojame bibliotekas
