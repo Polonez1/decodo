@@ -1,27 +1,29 @@
 # Decodo Google Scraper
 
-CLI tool written in Python for scraping Google search results using the Decodo Scraper API.  
-The application uses `click` to provide a command-line interface and separates CLI logic from scraping logic.
-
----
-
 ## Requirements
+Python 3.9+
 
-- Python 3.9 or newer (tested on Python 3.10)
-- Internet connection
-- Valid Decodo API credentials
-
----
-
-## Python Installation
-
-Download Python from the official website:
-
+## Install Python
 https://www.python.org/downloads/
 
-During installation on Windows, make sure the option **Add Python to PATH** is enabled.
+## Clone Repository
+git clone https://github.com/your-username/decodo.git
+cd decodo
 
-Verify installation:
+## Create Virtual Environment
+python -m venv venv
 
-```bash
-python --version
+## Activate Virtual Environment (Windows)
+venv\Scripts\Activate
+
+## Activate Virtual Environment (Linux / macOS)
+source venv/bin/activate
+
+## Install Dependencies
+pip install -r requirements.txt
+
+## Configure Credentials
+login.py
+
+## Run Application
+python run.py --search_by homeopatija --page_from 1 --page_count 1
