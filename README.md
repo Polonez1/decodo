@@ -55,11 +55,25 @@ pip install -r requirements.txt
 
 ## Autentifikacija
 
-Sukuriame failą login.py ir įklijuojame:
+Sukuriame failą login.py terminale paleidžiant:
 
 ```bash
-token = "YOUR_BASE64_TOKEN"
+New-Item login.py -ItemType File
 ```
+
+Vėliau atidarome per notepad arba įrašome į terminalą:
+
+```bash
+notepad login.py
+```
+
+Atsidaro notepad ir įklijuojame:
+
+```bash
+token = 'YOU_AUTH_TOKEN'
+```
+
+kur vietoje YOU_AUTH_TOKEN paduodame savo tokeną.
 
 ## Paleidžiame apps'ą
 
