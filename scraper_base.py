@@ -1,10 +1,14 @@
 import requests
 import json
+import login
 
-
-auth = "U0000332982"
-password = "PW_1a96590ec4bcb608ff62c7b428e4c9d74"
-token = "VTAwMDAzMzI5ODI6UFdfMWE5NjU5MGVjNGJjYjYwOGZmNjJjN2I0MjhlNGM5ZDc0"
+# auth = "U0000341401"
+# password = "PW_1fc56866964abc72a4bb95e70027b814b"
+# token = "VTAwMDAzNDE0MDE6UFdfMWZjNTY4NjY5NjRhYmM3MmE0YmI5NWU3MDAyN2I4MTRi"
+auth = login.auth
+password = login.password
+token = login.token
+# patrykkonst123A#
 
 url = "https://scraper-api.decodo.com/v2/scrape"
 search_by = "homeopatija"
@@ -21,7 +25,7 @@ payload = {
 headers = {
     "accept": "application/json",
     "content-type": "application/json",
-    "authorization": "Basic VTAwMDAzMzI5ODI6UFdfMWE5NjU5MGVjNGJjYjYwOGZmNjJjN2I0MjhlNGM5ZDc0",
+    "authorization": f"Basic {token}",
 }
 
 response = requests.post(url, json=payload, headers=headers)

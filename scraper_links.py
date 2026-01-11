@@ -38,15 +38,17 @@ text_data = []
 n = 1
 for link in urls:
     payload = {"url": link, "headless": "html"}
+    print(link)
+    text_data.append(link)
 
-    response = requests.post(url, json=payload, headers=headers)
-
-    text_data.append({"link": link, "text": response.text})
-    n += 1
-    if n == 20:
-        break
-
-
-df = pd.DataFrame(text_data)
-df.to_excel("scraped_links_text.xlsx", index=False)
-print(df)
+    # response = requests.post(url, json=payload, headers=headers)
+#
+# text_data.append({"link": link, "text": response.text})
+# n += 1
+# if n == 20:
+#    break
+print(text_data)
+# df = pd.DataFrame(text_data)
+# df.to_excel("scraped_links_text.xlsx", index=False)
+# print(df)
+#

@@ -3,1221 +3,1221 @@
     {
       "content": {
         "results": {
-          "url": "https://www.google.com/search?q=homeopatija&source=hp&ei=OrK3ZITEEY6Ixc8P3NemmA4&iflsig=AD69kcEAAAAAZLfASni8y8AdTBIjpShc1wPCNRMLoubj&ved=0ahUKEwiEyafav5qAAxUORPEDHdyrCeMQ4dUDCAk&uact=5&oq=pizza&gs_lp=Egdnd3Mtd2l6IgVwaXp6YTILEC4YgAQYxwEY0QMyBRAAGIAEMgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAuGIAEGMcBGK8BMgsQLhiABBjHARivATIFEC4YgARI1ApQgARYyQlwAXgAkAEAmAF1oAGuBKoBAzAuNbgBA8gBAPgBAagCAA&sclient=gws-wiz&hl=lt",
+          "last_visible_page": 10,
           "page": 1,
+          "parse_status_code": 12000,
           "results": {
-            "paid": [],
-            "organic": [
-              {
-                "pos": 1,
-                "url": "https://lt.wikipedia.org/wiki/Homeopatija",
-                "desc": "Šiuolaikinius mokslinius reikalavimus atitinkantys tyrimai rodo, kad homeopatinis gydymo medicininio poveikio neturi. Pagrindinių homeopatijos principų ( ...",
-                "title": "Homeopatija",
-                "url_shown": "https://lt.wikipedia.org› wiki › Homeopatija",
-                "pos_overall": 1,
-                "favicon_text": "Wikipedia"
-              },
-              {
-                "pos": 2,
-                "url": "https://www.vle.lt/straipsnis/homeopatija/",
-                "desc": "Homeopatijos dėsnius ištyrė, susistemino ir paskelbė Samuelis Hahnemannas (1755–1843, Vokietija) veikale Gydymo meno organonas (Organon der Heilkunst 1810).",
-                "title": "homeopatija",
-                "url_shown": "https://www.vle.lt› straipsnis › homeopatija",
-                "pos_overall": 2,
-                "favicon_text": "Visuotinė lietuvių enciklopedija"
-              },
-              {
-                "pos": 3,
-                "url": "https://ngc.lt/homeopatija/",
-                "desc": "Kas tai? Tai gydymo metodas, kurio tėvu laikomas vokiečių gydytojas Samuelis Hanemanas (1755-1847). Pagrindinis metodo principas – „panašus panašų gydo“.",
-                "title": "Homeopatija",
-                "url_shown": "https://ngc.lt› homeopatija",
-                "pos_overall": 3,
-                "favicon_text": "Natūralaus gydymo centras"
-              },
-              {
-                "pos": 4,
-                "url": "https://www.eurovaistine.lt/patarimai-ir-straipsniai/sveikata/homeopatiniai-vaistai-mitai-ir-tiesa",
-                "desc": "2017-09-18 — Kuo grindžiamas homeopatijos mokslas? Kaip veikia homeopatiniai preparatai? Ar jie pripažinti ir visateisiai vaistai? Susiorientuoti mums padės ...",
-                "title": "Homeopatiniai vaistai: mitai ir tiesa",
-                "url_shown": "https://www.eurovaistine.lt› Sveikata",
-                "pos_overall": 4,
-                "favicon_text": "Eurovaistine.lt"
-              },
-              {
-                "pos": 5,
-                "url": "https://camelia.lt/naujienos/sveikata/homeopatija-naturaliai-gydo-tausoja-stiprina-53",
-                "desc": "2013-02-28 — Homeopatija – gydymo sistema, kitaip traktuojanti ligą ir vaistus nei įprastinis gydymas. Pagal jos principus liga yra tikslinga organizmo ...",
-                "title": "Homeopatija: natūraliai gydo, tausoja, stiprina",
-                "url_shown": "https://camelia.lt› naujienos › sveikata › homeopatija-n...",
-                "pos_overall": 5,
-                "favicon_text": "Camelia"
-              },
-              {
-                "pos": 6,
-                "url": "https://siuolaikinehomeopatija.lt/siuolaikine-homeopatija/",
-                "desc": "Į šiuos poreikius atsižvelgiančią homeopatinio gydymo sistemą išvystė kitas vokiečių gydytojas – Hansas Heinrichas Rekevegas ( Hans Heinrich Reckeweg, 1905–1985) ...",
-                "title": "Šiuolaikinė homeopatija",
-                "url_shown": "https://siuolaikinehomeopatija.lt› siuolaikine-homeopatija",
-                "pos_overall": 6,
-                "favicon_text": "Šiuolaikinė homeopatija -"
-              },
-              {
-                "pos": 7,
-                "url": "https://www.delfi.lt/gyvenimas/grozis_ir_sveikata/8-faktai-apie-siuolaikine-homeopatija-90137921",
-                "desc": "2022-05-05 — Homeopatija gali būti iš tiesų naudinga tuo atveju, kai sveikatos sutrikimas nesunkus ir organizmui reikia tik šiek tiek pagalbos, norint su ...",
-                "title": "8 faktai apie šiuolaikinę homeopatiją",
-                "url_shown": "https://www.delfi.lt› Gyvenimas › Grožis ir sveikata",
-                "pos_overall": 7,
-                "favicon_text": "Delfi"
-              },
-              {
-                "pos": 8,
-                "url": "https://bioklinika.lt/griauname-mitus-apie-homeopatija/",
-                "desc": "2017-09-15 — Homeopatijos poveikis yra labai lėtas. Homeopatinis gydymas yra greitesnis nei tradicinis gydant alergiją, astmą, egzemą, migreną, artritą. Taip ...",
-                "title": "Griauname mitus apie homeopatiją",
-                "url_shown": "https://bioklinika.lt› Naujienos",
-                "pos_overall": 8,
-                "favicon_text": "BIOFIRST klinika"
-              },
-              {
-                "pos": 9,
-                "url": "https://osteopatijoscentras.lt/kas-yra-homeopatija/",
-                "desc": "Homeopatija – natūralus, holistinis gydymo metodas, padedantis atkurti organizmo pusiausvyrą ir sužadinti vidinius gijimo mechanizmus. Homeopatas ....",
-                "title": "Kas yra Homeopatija ir Homeopatas?",
-                "url_shown": "https://osteopatijoscentras.lt› Straipsniai",
-                "pos_overall": 9,
-                "favicon_text": "Osteopatijos centras"
-              },
-              {
-                "pos": 10,
-                "url": "https://www.hila.lt/naujienos/homeopatija-naturalus-gydymo-budas/",
-                "desc": "2011-04-12 — Balandžio 10-16 dienomis minima Pasaulinė informavimo apie homeopatiją savaitė. Ją organizuoja Pasaulinė informavimo apie homeopatiją ...",
-                "title": "Homeopatija - natūralus gydymo būdas",
-                "url_shown": "https://www.hila.lt› Hila naujienos",
-                "pos_overall": 10,
-                "favicon_text": "Hila | Medicinos diagnostikos ir gydymo centras"
-              }
-            ],
             "knowledge": {
-              "title": "Homeopatija",
               "images": [
-                "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIACUAOAMBIgACEQEDEQH/xAAaAAADAQEBAQAAAAAAAAAAAAAABQYEBwMB/8QAMxAAAgECBAQDBwIHAAAAAAAAAQIDBBEABRIhBhMxUSJBYRQjMoGRscFx0RUWJFJjoeH/xAAYAQEBAQEBAAAAAAAAAAAAAAADBAIFAf/EACERAAICAgEEAwAAAAAAAAAAAAECAAMRIQQSMUHwUoGx/9oADAMBAAIRAxEAPwDFy88o6mCp57aXcRCoLKiX2ALenTr264q8gzc1uukzAxR5jCbSRB2Hzsf+4zVeSVlJzuSkklHKgWSJiOgNxbzuPTucTdbSRxpzIC1Oo8YdTYKewPf744C3PViuwfYnVKh9gxtUL/WVIFiOa3Q+uKDJH0UKaCwIc20rf/eILL58yzWpqZI3QaAGbWoF73G4HqD5+uKKesrKTh6SKKrjkl5R8ca6SjH0/bBVUtTeSx7zbsHQAQ414qmekIyNpDVh+XPPoBVD0uoPU3uOhGx+XN6r+Ks65hWVD1ji5dGcpIqjz26D7dsWHDXB65oOdTI0SxBvfq3iLWFgO/Xp0xkrUOU/HFGa6mflvrBVemzC/Ubj6kb4uHL+A7++/kEUgnDGHDGay5lAVqNKiNTpc26eQv577YMTFG9PTZs86T+7SS6p0AB8voB9MGJOXwcv1L53KKb8rg+J356WED31e/6XUfjCnMMjyycM0bya2+LYsr+hGNvMlW6rSyL5blV/OM85q7MdMKi212J/GLH6SMESMEjzJOpihgdloIkhh/xXsT5nDzJuD6avgEs1c0YZVLxLGQRcEkEtYdLd/tifLzB7oF1owIDrdbg9CPMXxR/za5qUqmoKgTpFp0x1JMbMdjdCdOmw29TguJUm2tkTWFmyZ5yJxDwjK1PkeU1GZZc7h7grrjJPTwm7A7G5Fhvjk+fZnXZ7ms1RPaHmuNQsQARtYDrtjsdVxg1WlIRRORdufE3ht5CxGx2+WwxJVeSJmOaVFR7MwWSUuI1X4d9gTsMVvZWmk2ZsOznUT5Jw7QxRAzp7TMd3Ei7A/p2wYslohDpmihKtGuk7DxL2t9sfMDlm2TLQBiO48ynrqhimmLUe2r9sbPYDILT1EjX/ALAB974MGExknMNtHUW1fCNPIDJTVlRA17m51g/I/jCyPI3RwjVeoDtFb84MGDdRD6FJ2Iyo8phY2kZmtjXJFHTxgKpIt0vYYMGPAoA1EAA0Ivmq9TFViUW9cGDBjOTHwJ//2Q=="
+                "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIADgAOAMBEQACEQEDEQH/xAAbAAACAgMBAAAAAAAAAAAAAAAEBgUHAQIDAP/EAD0QAAIBAwMBAwULDQAAAAAAAAECAwQFEQAGEiExQVEUYXGR0QcTFiIjMkSBlKGzFSQ2QlRVVnSio7HB8P/EABoBAAEFAQAAAAAAAAAAAAAAAAQAAQIDBQb/xAApEQACAgEDAwIGAwAAAAAAAAAAAQIDEQQSIRMxQQXwIlFxkaGxFGHR/9oADAMBAAIRAxEAPwBIO7Nz5ONwXTt/a39ukTwZ+Fe5/wB/3T7W/t0hYPfCzc2f0guv2t/bpxYCYb/u+ZA8d5vBU9h8qcA+s6SWSLlFdzjPurdVO3Ca+XaNvBqlx/vT4FlPsDPvPcv8Q3P7W/t0sDZO1l3huSW+22KS/wBzaN6uFWVqtyGBcAg9dJiIjgcnow66YmZBUYy+MnAPn03A5uCoPzh6tPgWS9KTaFpuW1LXWyrKk4oIsvDJgNhR3dRpbnHsUySfJUfugReRX2WjjZzBAxSL3w5IGAT951JPKyJLApyNnSHyFbfx8IrV0+nQfiLpmIZ7fRo1dCHcqhlALY7OvboW6xwrlJd0g6utSkkxw3fYqOWOpYUwTyhVcOgxjzfUcjXOQ1NlVqw/hfP394NroV21vK5XH295KtlebkYnwGQ8W8cjXVVyUoqSOdti4ycX4LVsz10e16AUV0qabMSswRgUIwOnEggeka5271K6u6SXzNyv0+myuLa8Fcbw5yX+cyNI7lFLNJJzyevXWv6dbO2ndN5ZmeoUwqs2wWCBdD4aPAArbwxuK1dPpsH4i6ZjjjSNzOB1B786DsXBoVvksQyflHb8E5Cs6ji6+fv/AKgfXrm9TXtX0f4fv8mxp5fHz59+/oVXvG3eSVwqYgvCTo+D0B7ta/pV7lDZIz/U6MS3oIsO5WprXHA0nzE44JABA0Pq9HutbXkL0uqSpin4FavqzU3CeUuXzjt+vWxpIbK8GPrJ77cgjudFAgXt5s7itX87B+IumYh5WjhL5CFTnu7tAyk8GnGKyT1LcBarVVxGUqX4tAzDIU9eXp/VONAPTq+W1hLtdK3Cff4LlJ74KmoiqI2GSocM0bYyueIwDkYxk6t0SpjLEVh/sr1krZLL5X6GP3PNpVM+2DcKKmied53WQPgOcdmCemNaS5Zmye1YI73QI1p7SYLlRQLXh1ME6BeaqDhlYr2jzeOrEVcNlcYLHC9TqWRYJXbtJL+XrW5HZWwH+4umbH2sd4qtCxGcEn0HQbgaCmGwxG5r5JGjStKQixjtY92NU9NqSa7lrsi4NS7HqrbFJt6p/O5K+WSopTKQoykUmcAOe8ZJ6+rRCrXywCdbPZ558jNZ6m97UtskXk1PWUY+V5xN8QZ7w3b6xqyCa4KbJRm89iv91Gv3VNDOsCLHlyIo3JPVz1JI8fDVc9XCuTjLjH+ZGjWQ6bZrlChYAOXYeQOfPqH8+nnkl0wm02u4011t00kXyS1sQYq2cYkUH/P3HU46qmctqfIzUkh7l2rdyDi0ysT2n3sddQ2TC+pX8wuy2u/WaOrENmqC88fDkq9V9B7tTSmiucq5eQyok3W01M0NsrIxFEkbAIDz4nOTntOpLeV4qIitsm56mqnqTRVh9/bk8eCEPfjjnGM6sWfKI/B4ZFptW9AmSaxXMygHBhCgZyfEjuxoe2F0niOMf2SUonN9o3GRsvt68g8sk8VJI8/xv+zqtQ1SWFj8i3wNIdkXZLxbpYLLcVSOpieV5AOIAZT09GDq+nrc9TBGTg1wf//Z"
               ],
               "is_hotel": false,
-              "subtitle": "Medicinos specialybė"
+              "subtitle": "Medicinos specialybė",
+              "title": "Homeopatija"
             },
-            "search_information": {
-              "query": "homeopatija",
-              "geo_location": "Mersinas, Mersin",
-              "showing_results_for": "homeopatija",
-              "total_results_count": 416000,
-              "time_taken_displayed": null,
-              "no_results_for_original_query_found": false
-            },
-            "total_results_count": 416000
-          },
-          "last_visible_page": 10,
-          "parse_status_code": 12000
-        },
-        "errors": [],
-        "status_code": 12000,
-        "task_id": "7405992007916598273"
-      },
-      "headers": {},
-      "status_code": 200,
-      "task_id": "7405992007916598273",
-      "created_at": "2025-12-14 15:28:11",
-      "updated_at": "2025-12-14 15:28:25"
-    },
-    {
-      "content": {
-        "results": {
-          "url": "https://www.google.com/search?q=homeopatija&source=hp&ei=OrK3ZITEEY6Ixc8P3NemmA4&iflsig=AD69kcEAAAAAZLfASni8y8AdTBIjpShc1wPCNRMLoubj&ved=0ahUKEwiEyafav5qAAxUORPEDHdyrCeMQ4dUDCAk&uact=5&oq=pizza&gs_lp=Egdnd3Mtd2l6IgVwaXp6YTILEC4YgAQYxwEY0QMyBRAAGIAEMgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAuGIAEGMcBGK8BMgsQLhiABBjHARivATIFEC4YgARI1ApQgARYyQlwAXgAkAEAmAF1oAGuBKoBAzAuNbgBA8gBAPgBAagCAA&sclient=gws-wiz&hl=lt&start=10",
-          "page": 2,
-          "results": {
-            "paid": [],
             "organic": [
               {
+                "desc": "Šiuolaikinius mokslinius reikalavimus atitinkantys tyrimai rodo, kad homeopatinis gydymo medicininio poveikio neturi. Pagrindinių homeopatijos principų ( ...",
+                "favicon_text": "Wikipedia",
                 "pos": 1,
-                "url": "https://www.hila.lt/naujienos/homeopatija-naturalus-gydymo-budas/",
-                "desc": "2011-04-12 — Balandžio 10-16 dienomis minima Pasaulinė informavimo apie homeopatiją savaitė. Ją organizuoja Pasaulinė informavimo apie homeopatiją ...",
-                "title": "Homeopatija - natūralus gydymo būdas",
-                "url_shown": "https://www.hila.lt› Hila naujienos",
                 "pos_overall": 1,
-                "favicon_text": "Hila | Medicinos diagnostikos ir gydymo centras"
+                "title": "Homeopatija",
+                "url": "https://lt.wikipedia.org/wiki/Homeopatija",
+                "url_shown": "https://lt.wikipedia.org› wiki › Homeopatija"
               },
               {
+                "desc": "Homeopatinio gydymo pagrindiniai būdai – klasikinė homeopatija (pagal klinikinius ligos simptomus), kompleksinių preparatų homeopatija (iš 2 ar daugiau medžiagų ...",
+                "favicon_text": "Visuotinė lietuvių enciklopedija",
                 "pos": 2,
-                "url": "https://www.egzorcistas.lt/homeopatija/",
+                "pos_overall": 2,
+                "title": "homeopatija",
+                "url": "https://www.vle.lt/straipsnis/homeopatija/",
+                "url_shown": "https://www.vle.lt› straipsnis › homeopatija"
+              },
+              {
+                "desc": "Kaip veikia homeopatiniai vaistai? Homeopatinis medikamentas pats nieko negydo, o tik sukelia organizmo savisaugos reakciją. Toks gydymas veikia priežastį, o ne ...",
+                "favicon_text": "Natūralaus gydymo centras",
+                "pos": 3,
+                "pos_overall": 3,
+                "title": "Homeopatija",
+                "url": "https://ngc.lt/homeopatija/",
+                "url_shown": "https://ngc.lt› homeopatija"
+              },
+              {
+                "desc": "2017-09-18 — Kuo grindžiamas homeopatijos mokslas? Kaip veikia homeopatiniai preparatai? Ar jie pripažinti ir visateisiai vaistai? Susiorientuoti mums padės ...",
+                "favicon_text": "Eurovaistine.lt",
+                "pos": 4,
+                "pos_overall": 4,
+                "title": "Homeopatiniai vaistai: mitai ir tiesa",
+                "url": "https://www.eurovaistine.lt/patarimai-ir-straipsniai/sveikata/homeopatiniai-vaistai-mitai-ir-tiesa",
+                "url_shown": "https://www.eurovaistine.lt› Sveikata"
+              },
+              {
+                "desc": "Į šiuos poreikius atsižvelgiančią homeopatinio gydymo sistemą išvystė kitas vokiečių gydytojas – Hansas Heinrichas Rekevegas ( Hans Heinrich Reckeweg, 1905–1985) ...",
+                "favicon_text": "Šiuolaikinė homeopatija -",
+                "pos": 5,
+                "pos_overall": 5,
+                "title": "Šiuolaikinė homeopatija",
+                "url": "https://siuolaikinehomeopatija.lt/siuolaikine-homeopatija/",
+                "url_shown": "https://siuolaikinehomeopatija.lt› siuolaikine-homeopatija"
+              },
+              {
+                "desc": "Homeopatija – natūralus, holistinis gydymo metodas, padedantis atkurti organizmo pusiausvyrą ir sužadinti vidinius gijimo mechanizmus. Homeopatas ....",
+                "favicon_text": "Osteopatijos centras",
+                "pos": 6,
+                "pos_overall": 6,
+                "title": "Kas yra Homeopatija ir Homeopatas?",
+                "url": "https://osteopatijoscentras.lt/kas-yra-homeopatija/",
+                "url_shown": "https://osteopatijoscentras.lt› Straipsniai"
+              },
+              {
+                "desc": "2013-02-28 — Homeopatija – gydymo sistema, kitaip traktuojanti ligą ir vaistus nei įprastinis gydymas. Pagal jos principus liga yra tikslinga organizmo ...",
+                "favicon_text": "Camelia",
+                "pos": 7,
+                "pos_overall": 7,
+                "title": "Homeopatija: natūraliai gydo, tausoja, stiprina",
+                "url": "https://camelia.lt/naujienos/sveikata/homeopatija-naturaliai-gydo-tausoja-stiprina-53",
+                "url_shown": "https://camelia.lt› naujienos › sveikata › homeopatija-n..."
+              },
+              {
                 "desc": "Homepatija teigia, kad suteikia pacientui priemonę, t.y. sveikame individe produkuoja tuos pačius simptomus, kurie pastebimi ligonyje (panašus gydo panašų). “ ...",
+                "favicon_text": "Nacionalinė egzorcistų asociacija",
+                "pos": 8,
+                "pos_overall": 8,
                 "title": "Homeopatija",
-                "url_shown": "https://www.egzorcistas.lt› homeopatija",
-                "pos_overall": 2,
-                "favicon_text": "Nacionalinė egzorcistų asociacija"
+                "url": "https://www.egzorcistas.lt/homeopatija/",
+                "url_shown": "https://www.egzorcistas.lt› homeopatija"
               },
               {
-                "pos": 3,
-                "url": "https://www.benu.lt/produktai-pagal-kategorijas/gydymas-ir-profilaktika/homeopatija",
-                "desc": "Homeopatiniai vaistai – augalų pagrindu gaminami preparatai. Įsigykite natūralesnių vaistų iš BENU e-vaistinės plataus asortimento už prieinamą kainą.",
-                "title": "Homeopatiniai vaistai | Įsigykite iš BENU e-vaistinės",
-                "url_shown": "https://www.benu.lt› Gydymas ir profilaktika",
-                "pos_overall": 3,
-                "favicon_text": "BENU.lt"
-              },
-              {
-                "pos": 4,
-                "url": "https://homeopat.lt/",
                 "desc": "Akupunktūra – tradicinis kinų medicinos gydymo metodas, paremtas biologiškai aktyvių taškų stimuliacija adatos pagalba. Apie paslaugą ...",
+                "favicon_text": "homeopat.lt",
+                "pos": 9,
+                "pos_overall": 9,
                 "title": "Homeopat: Pagrindinis",
-                "url_shown": "https://homeopat.lt",
-                "pos_overall": 4,
-                "favicon_text": "homeopat.lt"
+                "url": "https://homeopat.lt/",
+                "url_shown": "https://homeopat.lt"
               },
               {
-                "pos": 5,
-                "url": "https://sirdazole.lt/naujienos/homeopatija/",
-                "desc": "2020-05-12 — Ieškantiems natūralių gydymo būdų homeopatija bus puikus sprendimas. Homeopatiniai preparatai yra veiksmingi ir nesukelia šalutinių veiksnių ...",
-                "title": "Homeopatija, homeopatiniai vaistai",
-                "url_shown": "https://sirdazole.lt› naujienos › homeopatija",
-                "pos_overall": 5,
-                "favicon_text": "Širdažolė"
+                "desc": "2022-06-30 — Homeopatija – tai natūralus gydymo metodas. Vieni juo tiki, kiti renkasi tikėti tik įprastine medicina. Šiame straipsnyje pateiksime faktų ...",
+                "favicon_text": "Pasveik.lt",
+                "pos": 10,
+                "pos_overall": 10,
+                "title": "Faktai ir mitai apie homeopatiją",
+                "url": "https://www.pasveik.lt/lt/homeopatija-siandien/faktai-ir-mitai-apie-homeopatija/68085/",
+                "url_shown": "https://www.pasveik.lt› Home › Homeopatija šiandien"
+              }
+            ],
+            "paid": [],
+            "search_information": {
+              "geo_location": "Montjuïc, Barselona",
+              "no_results_for_original_query_found": false,
+              "query": "homeopatija",
+              "showing_results_for": "homeopatija",
+              "time_taken_displayed": null,
+              "total_results_count": 441000
+            },
+            "total_results_count": 441000
+          },
+          "url": "https://www.google.com/search?q=homeopatija&source=hp&ei=OrK3ZITEEY6Ixc8P3NemmA4&iflsig=AD69kcEAAAAAZLfASni8y8AdTBIjpShc1wPCNRMLoubj&ved=0ahUKEwiEyafav5qAAxUORPEDHdyrCeMQ4dUDCAk&uact=5&oq=pizza&gs_lp=Egdnd3Mtd2l6IgVwaXp6YTILEC4YgAQYxwEY0QMyBRAAGIAEMgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAuGIAEGMcBGK8BMgsQLhiABBjHARivATIFEC4YgARI1ApQgARYyQlwAXgAkAEAmAF1oAGuBKoBAzAuNbgBA8gBAPgBAagCAA&sclient=gws-wiz&hl=lt"
+        },
+        "errors": [],
+        "status_code": 12000,
+        "task_id": "7416079129247777794"
+      },
+      "headers": {},
+      "status_code": 200,
+      "task_id": "7416079129247777794",
+      "created_at": "2026-01-11 11:30:48",
+      "updated_at": "2026-01-11 11:31:02"
+    },
+    {
+      "content": {
+        "results": {
+          "last_visible_page": 10,
+          "page": 2,
+          "parse_status_code": 12000,
+          "results": {
+            "organic": [
+              {
+                "desc": "2017-11-27 — Kaip teigia ji, homeopatijos veikimas gali būti prilyginamas nebent placebo efektui, gydytojai neturėtų siūlyti preparatų, kurie iš tiesų ...",
+                "favicon_text": "Delfi",
+                "pos": 1,
+                "pos_overall": 1,
+                "title": "Gydytoja atvirai pasakė, ką mano apie homeopatiją",
+                "url": "https://www.delfi.lt/sveikata/sveikatos-naujienos/gydytoja-atvirai-pasake-ka-mano-apie-homeopatija-76470879",
+                "url_shown": "https://www.delfi.lt› Sveikata › Sveikatos naujienos"
               },
               {
-                "pos": 6,
-                "url": "https://biorevital.lt/metodai/homeopatija/",
+                "desc": "2011-04-12 — Balandžio 10-16 dienomis minima Pasaulinė informavimo apie homeopatiją savaitė. Ją organizuoja Pasaulinė informavimo apie homeopatiją ...",
+                "favicon_text": "Hila | Medicinos diagnostikos ir gydymo centras",
+                "pos": 2,
+                "pos_overall": 2,
+                "title": "Homeopatija - natūralus gydymo būdas",
+                "url": "https://www.hila.lt/naujienos/homeopatija-naturalus-gydymo-budas/",
+                "url_shown": "https://www.hila.lt› Hila naujienos"
+              },
+              {
                 "desc": "Šį gydymo metodą gali taikyti homeopatijos žinių turintis gydytojas. Gydymas vyksta signalinių molekulių lygmenyje, nesukelia pašalinio poveikio, todėl ypač ...",
+                "favicon_text": "Biorevital",
+                "pos": 3,
+                "pos_overall": 3,
                 "title": "Homeopatija Biorevital klinikoje",
-                "url_shown": "https://biorevital.lt› Metodai",
-                "pos_overall": 6,
-                "favicon_text": "Biorevital"
+                "url": "https://biorevital.lt/metodai/homeopatija/",
+                "url_shown": "https://biorevital.lt› Metodai"
               },
               {
-                "pos": 7,
-                "url": "https://www.vegatestas-eglejura.com/homeopatija/",
-                "desc": "2022-05-31 — Homeopatija remiasi individualiu kiekvieno žmogaus atveju ir viso organizmo harmonizavimo principu - norint parinkti vaistą ar gydymo būdą ...",
-                "title": "Homeopatija | Vega testas - Eglė Aukštakalnienė",
-                "url_shown": "https://www.vegatestas-eglejura.com› homeopatija",
-                "pos_overall": 7,
-                "favicon_text": "Vega testas"
-              },
-              {
-                "pos": 8,
-                "url": "https://eshop.lsmu.lt/vaistine/hemopatiniai-preparatai",
-                "desc": "Homeopatija,Tulžies pūslės, tulžies latakų ir kasos veiklos sutrikimai,Virškinimo sistemos ligos .. €714. Atsiimti vaistinėje.",
-                "title": "Homeopatiniai vaistai",
-                "url_shown": "https://eshop.lsmu.lt› vaistine › hemopatiniai-preparatai",
-                "pos_overall": 8,
-                "favicon_text": "LSMU"
-              },
-              {
-                "pos": 9,
-                "url": "https://www.15min.lt/gyvenimas/naujiena/sveikata/homeopatija-ka-butina-zinoti-apie-si-gydymosi-buda-1028-468933",
-                "desc": "2014-11-28 — Sloga / Fotolia nuotr. „Kad galėtume sėkmingai gydytis homeopatiniais vaistais, pavyzdžiui, žiemą daugeliui aktualius peršalimo bei virusinius ...",
-                "title": "Homeopatija: ką būtina žinoti apie šį gydymosi būdą",
-                "url_shown": "https://www.15min.lt› Gyvenimas › Sveikata",
-                "pos_overall": 9,
-                "favicon_text": "15min.lt"
-              },
-              {
-                "pos": 10,
-                "url": "https://www.tv3.lt/naujiena/mokslasirit/visa-tiesa-apie-homeopatija-n787488",
-                "desc": "2014-04-29 — Homeopatija – viena iš alternatyvios medicinos sričių, turinti daug gerbėjų visame pasaulyje, tačiau tuo pačiu ir sulaukianti daug kritikos.",
-                "title": "Visa tiesa apie homeopatiją",
-                "url_shown": "https://www.tv3.lt› Mokslas ir IT",
-                "pos_overall": 10,
-                "favicon_text": "tv3.lt"
-              }
-            ],
-            "search_information": {
-              "query": "homeopatija",
-              "showing_results_for": "homeopatija",
-              "total_results_count": null,
-              "time_taken_displayed": null,
-              "no_results_for_original_query_found": false
-            },
-            "total_results_count": null
-          },
-          "last_visible_page": 10,
-          "parse_status_code": 12000
-        },
-        "errors": [],
-        "status_code": 12000,
-        "task_id": "7405992007916598273"
-      },
-      "headers": {},
-      "status_code": 200,
-      "task_id": "7405992007916598273",
-      "created_at": "2025-12-14 15:28:11",
-      "updated_at": "2025-12-14 15:28:26"
-    },
-    {
-      "content": {
-        "results": {
-          "url": "https://www.google.com/search?q=homeopatija&source=hp&ei=OrK3ZITEEY6Ixc8P3NemmA4&iflsig=AD69kcEAAAAAZLfASni8y8AdTBIjpShc1wPCNRMLoubj&ved=0ahUKEwiEyafav5qAAxUORPEDHdyrCeMQ4dUDCAk&uact=5&oq=pizza&gs_lp=Egdnd3Mtd2l6IgVwaXp6YTILEC4YgAQYxwEY0QMyBRAAGIAEMgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAuGIAEGMcBGK8BMgsQLhiABBjHARivATIFEC4YgARI1ApQgARYyQlwAXgAkAEAmAF1oAGuBKoBAzAuNbgBA8gBAPgBAagCAA&sclient=gws-wiz&hl=lt&start=20",
-          "page": 3,
-          "results": {
-            "paid": [],
-            "organic": [
-              {
-                "pos": 1,
-                "url": "https://www.tv3.lt/naujiena/mokslasirit/visa-tiesa-apie-homeopatija-n787488",
-                "desc": "2014-04-29 — Homeopatija – viena iš alternatyvios medicinos sričių, turinti daug gerbėjų visame pasaulyje, tačiau tuo pačiu ir sulaukianti daug kritikos.",
-                "title": "Visa tiesa apie homeopatiją",
-                "url_shown": "https://www.tv3.lt› Mokslas ir IT",
-                "pos_overall": 1,
-                "favicon_text": "tv3.lt"
-              },
-              {
-                "pos": 2,
-                "url": "https://parapharm.lt/homeopatija-kas-tai/",
-                "desc": "Homeopatija – tai gydymo ir profilaktikos sistema, gyvuojanti jau 200 metų. Pagrindinis homeopatijos principas – nepakenkti, o jos esmė – surasti ir ...",
-                "title": "Homeopatija – kas tai? - Parapharm ...",
-                "url_shown": "https://parapharm.lt› homeopatija-kas-tai",
-                "pos_overall": 2,
-                "favicon_text": "Parapharm homeopatijos vaistinė"
-              },
-              {
-                "pos": 3,
-                "url": "https://welovelithuania.com/homeopatija-gydymo-menas-ar-placebo-efektas/",
-                "desc": "2024-12-19 — Homeopatija – viena iš alternatyvios medicinos sričių, kurią jau daugiau nei du šimtmečius taiko milijonai žmonių visame pasaulyje.",
-                "title": "Homeopatija – gydymo menas ar placebo efektas?",
-                "url_shown": "https://welovelithuania.com› Įdomu sužinoti",
-                "pos_overall": 3,
-                "favicon_text": "We love Lithuania"
-              },
-              {
+                "desc": "2020-05-12 — Ieškantiems natūralių gydymo būdų homeopatija bus puikus sprendimas. Homeopatiniai preparatai yra veiksmingi ir nesukelia šalutinių veiksnių ...",
+                "favicon_text": "Širdažolė",
                 "pos": 4,
-                "url": "https://www.homeopath.lt/",
-                "desc": "Klasikinė homeopatija - vokiečių gydytojo Samuel Hahnemann XVIII amžiaus pabaigoje atrastas unikalus gydymo metodas. 1829 m. “Organon of Medicine” III leidimo ...",
-                "title": "Klasikinės Homeopatijos Centras",
-                "url_shown": "https://www.homeopath.lt",
                 "pos_overall": 4,
-                "favicon_text": "Klasikinės Homeopatijos Centras"
+                "title": "Homeopatija, homeopatiniai vaistai",
+                "url": "https://sirdazole.lt/naujienos/homeopatija/",
+                "url_shown": "https://sirdazole.lt› naujienos › homeopatija"
               },
               {
+                "desc": "2017-09-15 — Homeopatijos poveikis yra labai lėtas. Homeopatinis gydymas yra greitesnis nei tradicinis gydant alergiją, astmą, egzemą, migreną, artritą. Taip ...",
+                "favicon_text": "BIOFIRST klinika",
                 "pos": 5,
-                "url": "https://www.bernardinai.lt/2012-05-04-homeopatija-vaistai-ar-pavojus-spreskite-patys/",
-                "desc": "2012-05-04 — Sunku susigaudyti, neįsigilinus į homeopatijos gydymo principus, mokslines prielaidas ir dvasininkų argumentus. Tad šįkart norėjosi pažvelgti į ...",
-                "title": "Homeopatija: vaistai ar pavojus – spręskite patys",
-                "url_shown": "https://www.bernardinai.lt› 2012-05-04-homeopatija-v...",
                 "pos_overall": 5,
-                "favicon_text": "Bernardinai.lt"
+                "title": "Griauname mitus apie homeopatiją - Homeopatija",
+                "url": "https://bioklinika.lt/griauname-mitus-apie-homeopatija/",
+                "url_shown": "https://bioklinika.lt› Naujienos"
               },
               {
+                "desc": "Homeopatiniai vaistai – augalų pagrindu gaminami preparatai. Įsigykite natūralesnių vaistų iš BENU e-vaistinės plataus asortimento už prieinamą kainą.",
+                "favicon_text": "BENU.lt",
                 "pos": 6,
-                "url": "https://siuolaikinehomeopatija.lt/",
-                "desc": "Homeopatijos galimybės gydant įvairias ligas. Apie šiuolaikines greitesnio poveikio, saugias gydymo galimybes kalbamės su gydytoja med. dr. Virginija T.",
-                "title": "Šiuolaikinė homeopatija -",
-                "url_shown": "https://siuolaikinehomeopatija.lt",
                 "pos_overall": 6,
-                "favicon_text": "Šiuolaikinė homeopatija -"
+                "title": "Homeopatija - Homeopatiniai vaistai",
+                "url": "https://www.benu.lt/produktai-pagal-kategorijas/gydymas-ir-profilaktika/homeopatija",
+                "url_shown": "https://www.benu.lt› Gydymas ir profilaktika"
               },
               {
+                "desc": "2014-04-29 — Homeopatija – viena iš alternatyvios medicinos sričių, turinti daug gerbėjų visame pasaulyje, tačiau tuo pačiu ir sulaukianti daug kritikos.",
+                "favicon_text": "tv3.lt",
                 "pos": 7,
-                "url": "https://www.sveikaszmogus.lt/GYVENIMO_BUDAS-7986-7_idomybes_apie_homeopatija",
-                "desc": "šiuolaikinė homeopatija įgauna vis didesnį populiarumą, nes daug pacientų stengiasi atsigręžti į natūralesnius gydymo būdus, turinčius mažiau nepageidaujamų ...",
-                "title": "7 įdomybės apie homeopatiją",
-                "url_shown": "https://www.sveikaszmogus.lt› GYVENIMO_BUDAS-7...",
                 "pos_overall": 7,
-                "favicon_text": "Sveikas Žmogus"
+                "title": "Visa tiesa apie homeopatiją",
+                "url": "https://www.tv3.lt/naujiena/mokslasirit/visa-tiesa-apie-homeopatija-n787488",
+                "url_shown": "https://www.tv3.lt› Mokslas ir IT"
               },
               {
+                "desc": "2014-02-11 — Homeopatija yra pseudomokslas, o homeopatiniai vaistai neveikia. Jų magiškas poveikis tėra placebo efektas.",
+                "favicon_text": "medguru.lt",
                 "pos": 8,
-                "url": "https://lt.wikipedia.org/wiki/Homeopatija_Lietuvoje",
-                "desc": "Lietuvos homeopatijos pradininku laikomas farmacininkas Juozas Matulaitis (1869–1964) bei jo mokinė Anelė Ivašauskienė . Šiandien homeopatijos kursas yra ...",
-                "title": "Homeopatija Lietuvoje",
-                "url_shown": "https://lt.wikipedia.org› wiki › Homeopatija_Lietuvoje",
                 "pos_overall": 8,
-                "favicon_text": "Wikipedia"
+                "title": "Homeopatija – didžiausia medicinos apgaulė – medguru.lt",
+                "url": "https://www.medguru.lt/sveika-gyvensena/homeopatija-didziausia-medicinos-apgaule/",
+                "url_shown": "https://www.medguru.lt› sveika-gyvensena › homeopati..."
               },
               {
-                "pos": 9,
-                "url": "https://www.pasveik.lt/lt/homeopatija-siandien/kas-yra-homeopatija/6241/",
-                "desc": "2016-08-14 — Homeopatija – tai medicinos kryptis, kurios pradininku laikomas Leipcigo universiteto profesorius Kristianas Fridrichas Samuelis Hanemanas ...",
-                "title": "Kas yra homeopatija?",
-                "url_shown": "https://www.pasveik.lt› Home › Homeopatija šiandien",
-                "pos_overall": 9,
-                "favicon_text": "Pasveik.lt"
-              },
-              {
-                "pos": 10,
-                "url": "https://ngc.lt/ar-gali-pakenkti-homeopatiniai-vaistai/",
-                "desc": "Homeopatijos gydymo principai iš esmės skiriasi nuo fitoterapijos (gydymu vaistažolėmis) · Netgi labiausiai koncentruoti kompleksiniai preparatai turi ypatingai ...",
-                "title": "Ar gali pakenkti homeopatiniai vaistai?",
-                "url_shown": "https://ngc.lt› ar-gali-pakenkti-homeopatiniai-vaistai",
-                "pos_overall": 10,
-                "favicon_text": "Natūralaus gydymo centras"
-              }
-            ],
-            "search_information": {
-              "query": "homeopatija",
-              "showing_results_for": "homeopatija",
-              "total_results_count": null,
-              "time_taken_displayed": null,
-              "no_results_for_original_query_found": false
-            },
-            "total_results_count": null
-          },
-          "last_visible_page": 10,
-          "parse_status_code": 12000
-        },
-        "errors": [],
-        "status_code": 12000,
-        "task_id": "7405992007916598273"
-      },
-      "headers": {},
-      "status_code": 200,
-      "task_id": "7405992007916598273",
-      "created_at": "2025-12-14 15:28:11",
-      "updated_at": "2025-12-14 15:28:27"
-    },
-    {
-      "content": {
-        "results": {
-          "url": "https://www.google.com/search?q=homeopatija&source=hp&ei=OrK3ZITEEY6Ixc8P3NemmA4&iflsig=AD69kcEAAAAAZLfASni8y8AdTBIjpShc1wPCNRMLoubj&ved=0ahUKEwiEyafav5qAAxUORPEDHdyrCeMQ4dUDCAk&uact=5&oq=pizza&gs_lp=Egdnd3Mtd2l6IgVwaXp6YTILEC4YgAQYxwEY0QMyBRAAGIAEMgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAuGIAEGMcBGK8BMgsQLhiABBjHARivATIFEC4YgARI1ApQgARYyQlwAXgAkAEAmAF1oAGuBKoBAzAuNbgBA8gBAPgBAagCAA&sclient=gws-wiz&hl=lt&start=30",
-          "page": 4,
-          "results": {
-            "paid": [],
-            "organic": [
-              {
-                "pos": 1,
-                "url": "https://naturamunda.lt/",
-                "desc": "Derindami tradicinę bei natūralią mediciną, apjungdami patirtį ir mokslą – siekiame kuo geriausių gydymo rezultatų! Natūrali medicina. Homeopatija.",
-                "title": "Natura Munda - Natūrali medicina. Homeopatija.",
-                "url_shown": "https://naturamunda.lt",
-                "pos_overall": 1,
-                "favicon_text": "Natura Munda"
-              },
-              {
-                "pos": 2,
-                "url": "https://www.konstanta.lt/2016/01/mokslo-populiarinimo-konkursas-kas-yra-homeopatija-ir-kodel-ji-vis-dar-egzistuoja/",
-                "desc": "2016-01-07 — I dalis: kas yra homeopatija ir kodėl ji vis dar egzistuoja. Arnoldas Pautienius. Su homeopatija viskas būtų gerai, jeigu ne viena maža ...",
-                "title": "Mokslo populiarinimo konkursas. Kas yra homeopatija ir ...",
-                "url_shown": "https://www.konstanta.lt› 2016 › January",
-                "pos_overall": 2,
-                "favicon_text": "Konstanta-42"
-              },
-              {
-                "pos": 3,
-                "url": "https://homeopat.lt/homeopatija-kitoks-gydymas/",
-                "desc": "2025-06-17 — ... homeopatija. Kas tai yra, kada reikėtų kreiptis į homeopatą, pasakoja Grožio terapijos ir kosmetologijos centro gydytojas homeopatas ...",
-                "title": "Homeopatija – kitoks gydymas – Homeopat",
-                "url_shown": "https://homeopat.lt› homeopatija-kitoks-gydymas",
-                "pos_overall": 3,
-                "favicon_text": "homeopat.lt"
-              },
-              {
-                "pos": 4,
-                "url": "https://www.medicina.lt/paieska/homeopatija",
-                "desc": "Homeopatija , visa svarbiausia įmonių informacija verslo portale vienoje vietoje: atsiliepimai, kontaktai, darbo laikas, kainos.",
-                "title": "Homeopatija",
-                "url_shown": "https://www.medicina.lt› paieska › homeopatija",
-                "pos_overall": 4,
-                "favicon_text": "Medicina.lt"
-              },
-              {
-                "pos": 5,
-                "url": "https://kauno.diena.lt/dienrastis/liaudies-medicina/homeopatija--naturalus-gydymo-budas-344861",
-                "desc": "2011-04-12 — – Homeopatinio gydymo esmė – harmonizuojantis ir stiprinantis poveikis, todėl homeopatai gydo ne ligą, o žmogų. Gydytojas homeopatas stengiasi ...",
-                "title": "Homeopatija – natūralus gydymo būdas",
-                "url_shown": "https://kauno.diena.lt› Dienrastis › Liaudies Medicina",
-                "pos_overall": 5,
-                "favicon_text": "Kauno diena"
-              },
-              {
-                "pos": 6,
-                "url": "https://www.15min.lt/gyvenimas/naujiena/sveikata/fitoterapija-ir-homeopatija-kuo-skiriasi-sie-gydymo-metodai-1028-965738",
                 "desc": "2018-05-03 — Šiandien, kai sveika gyvensena ir natūralūs produktai atranda vis daugiau vietos žmonių gyvenime, natūralūs gydymo būdai, ...",
+                "favicon_text": "15min.lt",
+                "pos": 9,
+                "pos_overall": 9,
                 "title": "Fitoterapija ir homeopatija – kuo skiriasi šie gydymo ...",
-                "url_shown": "https://www.15min.lt› Gyvenimas › Sveikata",
-                "pos_overall": 6,
-                "favicon_text": "15min.lt"
+                "url": "https://www.15min.lt/gyvenimas/naujiena/sveikata/fitoterapija-ir-homeopatija-kuo-skiriasi-sie-gydymo-metodai-1028-965738",
+                "url_shown": "https://www.15min.lt› Gyvenimas › Sveikata"
               },
               {
-                "pos": 7,
-                "url": "https://www.tv3.lt/naujiena/gyvenimas/homeopatija-kaip-vertinti-ir-kuo-tiketi-n1097825",
-                "desc": "2021-05-26 — Homeopatija – ne išimtis. Lietuviškoji Vikipedija homeopatiją vadina pseudomokslu, o štai vokiškoji įvardina kaip alternatyvų medicininį gydymo ...",
-                "title": "Homeopatija: kaip vertinti ir kuo tikėti?",
-                "url_shown": "https://www.tv3.lt› Gyvenimas",
-                "pos_overall": 7,
-                "favicon_text": "tv3.lt"
-              },
-              {
-                "pos": 8,
-                "url": "https://parapharm.lt/homeopatija-lietuvoje/",
-                "desc": "Remiantis tuometiniais įstatymais, homeopatiniu gydymu galėdavo užsiimti tik turintys gydytojo diplomą, o tokias vaistines atidaryti buvo leidžiama tik ...",
-                "title": "Homeopatija Lietuvoje",
-                "url_shown": "https://parapharm.lt› homeopatija-lietuvoje",
-                "pos_overall": 8,
-                "favicon_text": "Parapharm homeopatijos vaistinė"
-              },
-              {
-                "pos": 9,
-                "url": "https://www.homeopatai.lt/homeopatija-kas-tai/",
-                "desc": "Gydykis tuo, nuo ko susirgai! Netradicinės medicinos šaka – HOMEOPATIJA - vis labiau populiarėja ir vis mažiau stebina bei kelia klausimų dėl tokio gydymo ...",
-                "title": "Homeopatija - kas tai? - homeopatai. ...",
-                "url_shown": "https://www.homeopatai.lt› Straipsniai",
-                "pos_overall": 9,
-                "favicon_text": "homeopatai.lt"
-              },
-              {
+                "desc": "Homeopatija,Tulžies pūslės, tulžies latakų ir kasos veiklos sutrikimai,Virškinimo sistemos ligos .. €714. Atsiimti vaistinėje.",
+                "favicon_text": "LSMU",
                 "pos": 10,
-                "url": "https://siuolaikinehomeopatija.lt/moterys-ir-homeopatija/",
-                "desc": "Tokią galimybę suteiks homeopatiniai preparatai, esantys Detox-Kit rinkinyje: Nux vomica-Homaccord geriamieji lašai,. Berberis-Homaccord geriamieji lašai,.",
-                "title": "Moterys ir homeopatija",
-                "url_shown": "https://siuolaikinehomeopatija.lt› moterys-ir-homeopatija",
                 "pos_overall": 10,
-                "favicon_text": "Šiuolaikinė homeopatija -"
+                "title": "Homeopatiniai vaistai",
+                "url": "https://eshop.lsmu.lt/vaistine/hemopatiniai-preparatai",
+                "url_shown": "https://eshop.lsmu.lt› vaistine › hemopatiniai-preparatai"
               }
             ],
+            "paid": [],
             "search_information": {
+              "no_results_for_original_query_found": false,
               "query": "homeopatija",
               "showing_results_for": "homeopatija",
-              "total_results_count": null,
               "time_taken_displayed": null,
-              "no_results_for_original_query_found": false
+              "total_results_count": null
             },
             "total_results_count": null
           },
-          "last_visible_page": 10,
-          "parse_status_code": 12000
+          "url": "https://www.google.com/search?q=homeopatija&source=hp&ei=OrK3ZITEEY6Ixc8P3NemmA4&iflsig=AD69kcEAAAAAZLfASni8y8AdTBIjpShc1wPCNRMLoubj&ved=0ahUKEwiEyafav5qAAxUORPEDHdyrCeMQ4dUDCAk&uact=5&oq=pizza&gs_lp=Egdnd3Mtd2l6IgVwaXp6YTILEC4YgAQYxwEY0QMyBRAAGIAEMgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAuGIAEGMcBGK8BMgsQLhiABBjHARivATIFEC4YgARI1ApQgARYyQlwAXgAkAEAmAF1oAGuBKoBAzAuNbgBA8gBAPgBAagCAA&sclient=gws-wiz&hl=lt&start=10"
         },
         "errors": [],
         "status_code": 12000,
-        "task_id": "7405992007916598273"
+        "task_id": "7416079129247777794"
       },
       "headers": {},
       "status_code": 200,
-      "task_id": "7405992007916598273",
-      "created_at": "2025-12-14 15:28:11",
-      "updated_at": "2025-12-14 15:28:29"
+      "task_id": "7416079129247777794",
+      "created_at": "2026-01-11 11:30:48",
+      "updated_at": "2026-01-11 11:31:25"
     },
     {
       "content": {
         "results": {
-          "url": "https://www.google.com/search?q=homeopatija&source=hp&ei=OrK3ZITEEY6Ixc8P3NemmA4&iflsig=AD69kcEAAAAAZLfASni8y8AdTBIjpShc1wPCNRMLoubj&ved=0ahUKEwiEyafav5qAAxUORPEDHdyrCeMQ4dUDCAk&uact=5&oq=pizza&gs_lp=Egdnd3Mtd2l6IgVwaXp6YTILEC4YgAQYxwEY0QMyBRAAGIAEMgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAuGIAEGMcBGK8BMgsQLhiABBjHARivATIFEC4YgARI1ApQgARYyQlwAXgAkAEAmAF1oAGuBKoBAzAuNbgBA8gBAPgBAagCAA&sclient=gws-wiz&hl=lt&start=40",
-          "page": 5,
+          "last_visible_page": 10,
+          "page": 3,
+          "parse_status_code": 12000,
           "results": {
-            "paid": [],
             "organic": [
               {
+                "desc": "Homeopatija – tai gydymo ir profilaktikos sistema, gyvuojanti jau 200 metų. Pagrindinis homeopatijos principas – nepakenkti, o jos esmė – surasti ir ...",
+                "favicon_text": "Parapharm homeopatijos vaistinė",
                 "pos": 1,
-                "url": "https://www.pasveik.lt/lt/homeopatija-siandien/homeopatija-kada-ji-atsirado-ir-kuo-ji-paremta-2/66800/",
-                "desc": "2021-07-21 — Homeopatija daugeliui asocijuojasi su gydymu žolelėmis, tačiau homeopatijos nereikėtų painioti su fitoterapija.",
-                "title": "Homeopatija – kada ji atsirado ir kuo ji paremta?",
-                "url_shown": "https://www.pasveik.lt› Home › Homeopatija šiandien",
                 "pos_overall": 1,
-                "favicon_text": "Pasveik.lt"
+                "title": "Homeopatija – kas tai? - Parapharm ...",
+                "url": "https://parapharm.lt/homeopatija-kas-tai/",
+                "url_shown": "https://parapharm.lt› homeopatija-kas-tai"
               },
               {
+                "desc": "ar žinai, kad ...? • homeopatija – holistinė medicina, siekianti gydyti ne tik ligą, o visą žmogų. pacientai gauna unikalų ir individualų gydymą ...",
+                "favicon_text": "Sveikas Žmogus",
                 "pos": 2,
-                "url": "https://www.pipedija.com/index.php/Homeopatija",
-                "desc": "2024-09-27 — Homeopatija yra paremta dviem maginiais principais, kurie suveikia, kai suveikia abu kartu: Panašų gydyti panašiu - nesvarbu, ar pagal šiaip ...",
-                "title": "Homeopatija",
-                "url_shown": "https://www.pipedija.com› index.php › Homeopatija",
                 "pos_overall": 2,
-                "favicon_text": "Pipedija"
+                "title": "Homeopatija gali pagerinti tavo sveikata",
+                "url": "https://www.sveikaszmogus.lt/GYVENIMO_BUDAS-1133-Homeopatija_gali_pagerinti_tavo_sveikata",
+                "url_shown": "https://www.sveikaszmogus.lt› GYVENIMO_BUDAS-1..."
               },
               {
+                "desc": "2012-05-04 — Prisideda ir chemikai bei fizikai, kurie aiškina, kad moksliškai homeopatijos veikimo principai visiškai nepagrįsti, o kunigai perspėja dėl ...",
+                "favicon_text": "Bernardinai.lt",
                 "pos": 3,
-                "url": "https://internetaptieka.lv/musu-raksti/veseliba/kas-ir-homeopatija",
-                "desc": "2022-02-07 — Kā apgalvo paši eksperti, homeopātija neapslāpē slimības simptomus, bet tā vietā tiek stiprināti organisma dabiskie dziedināšanās procesi, ...",
-                "title": "Kas ir homeopātija?",
-                "url_shown": "https://internetaptieka.lv› veseliba",
                 "pos_overall": 3,
-                "favicon_text": "InternetAptieka"
+                "title": "Homeopatija: vaistai ar pavojus – spręskite patys",
+                "url": "https://www.bernardinai.lt/2012-05-04-homeopatija-vaistai-ar-pavojus-spreskite-patys/",
+                "url_shown": "https://www.bernardinai.lt› 2012-05-04-homeopatija-v..."
               },
               {
+                "desc": "2024-12-19 — Homeopatija – viena iš alternatyvios medicinos sričių, kurią jau daugiau nei du šimtmečius taiko milijonai žmonių visame pasaulyje.",
+                "favicon_text": "We love Lithuania",
                 "pos": 4,
-                "url": "https://en.wikipedia.org/wiki/Homeopathy",
-                "desc": "Homeopathy or homoeopathy is a pseudoscientific system of alternative medicine. It was conceived in 1796 by the German physician Samuel Hahnemann.",
-                "title": "Homeopathy",
-                "url_shown": "https://en.wikipedia.org› wiki › Ho...",
                 "pos_overall": 4,
-                "favicon_text": "Wikipedia"
+                "title": "Homeopatija – gydymo menas ar placebo efektas?",
+                "url": "https://welovelithuania.com/homeopatija-gydymo-menas-ar-placebo-efektas/",
+                "url_shown": "https://welovelithuania.com› Įdomu sužinoti"
               },
               {
+                "desc": "Klasikinė homeopatija - vokiečių gydytojo Samuel Hahnemann XVIII amžiaus pabaigoje atrastas unikalus gydymo metodas. 1829 m. “Organon of Medicine” III leidimo ...",
+                "favicon_text": "Klasikinės Homeopatijos Centras",
                 "pos": 5,
-                "url": "http://www.homeopatija.hr/index.php/o-homeopatiji/sto-je-homeopatija",
-                "desc": "Danas mnoge bolnice na zapadu kombiniraju homeopatiju i alopatsku (školsku) medicinu, zajedno s kiropraktikom, fitoterapijom i akupunkturom, za dobrobit ...",
-                "title": "Što je homeopatija",
-                "url_shown": "http://www.homeopatija.hr› index.php",
                 "pos_overall": 5,
-                "favicon_text": "Hrvatska udruga homeopata"
+                "title": "Klasikinės Homeopatijos Centras",
+                "url": "https://www.homeopath.lt/",
+                "url_shown": "https://www.homeopath.lt"
               },
               {
+                "desc": "2016-08-14 — Homeopatija – tai medicinos kryptis, kurios pradininku laikomas Leipcigo universiteto profesorius Kristianas Fridrichas Samuelis Hanemanas ...",
+                "favicon_text": "Pasveik.lt",
                 "pos": 6,
-                "url": "https://www.stetoskop.info/homeopatija/kako-homeopatija-deluje",
-                "desc": "Homeopate smatraju da um, telo i emocije nisu razdvojeni. Cilj je prepoznavanje i otklanjanje uzroka bolesti. Osoba se leči kao celina, a lek deluje na sve ...",
-                "title": "Kako homeopatija deluje - Šta leči homeopatija?",
-                "url_shown": "https://www.stetoskop.info› kako-h...",
                 "pos_overall": 6,
-                "favicon_text": "Stetoskop.info"
+                "title": "Kas yra homeopatija?",
+                "url": "https://www.pasveik.lt/lt/homeopatija-siandien/kas-yra-homeopatija/6241/",
+                "url_shown": "https://www.pasveik.lt› Home › Homeopatija šiandien"
               },
               {
+                "desc": "Homeopatijos galimybės gydant įvairias ligas. Apie šiuolaikines greitesnio poveikio, saugias gydymo galimybes kalbamės su gydytoja med. dr. Virginija T.",
+                "favicon_text": "Šiuolaikinė homeopatija -",
                 "pos": 7,
-                "url": "https://www.lietuviuzodynas.lt/terminai/Homeopatija",
-                "desc": "Homeopatija reikšmė. Homeopatija - (homeo- + gr. pathos - kančia, liga; sk. home/opatija) - kurių ne kurių ligų gydymo būdas: vartojamos labai mažos dozės ...",
-                "title": "Kas yra Homeopatija ? Žodžio Homeopatija reikšmė",
-                "url_shown": "https://www.lietuviuzodynas.lt› terminai › Homeopatija",
                 "pos_overall": 7,
-                "favicon_text": "lietuviuzodynas.lt"
+                "title": "Šiuolaikinė homeopatija -",
+                "url": "https://siuolaikinehomeopatija.lt/",
+                "url_shown": "https://siuolaikinehomeopatija.lt"
               },
               {
-                "pos": 8,
-                "url": "https://naturalus.sveikas.lt/lt/homeopatija/homeopatija_kas_tai_yra_ir_kaip_veikia/",
                 "desc": "Homeopatija yra gydymo būdas, kai ligoniams gydyti gydytojas homeopatas naudoja medikamentus labai mažomis dozėmis. O patys homeopatiniai vaistai gali būti ...",
+                "favicon_text": "sveikas.lt",
+                "pos": 8,
+                "pos_overall": 8,
                 "title": "Homeopatija: kas tai yra ir kaip veikia - sveikas.lt",
-                "url_shown": "https://naturalus.sveikas.lt› homeopatija › homeopatija_...",
-                "pos_overall": 8,
-                "favicon_text": "sveikas.lt"
+                "url": "https://naturalus.sveikas.lt/lt/homeopatija/homeopatija_kas_tai_yra_ir_kaip_veikia/",
+                "url_shown": "https://naturalus.sveikas.lt› homeopatija › homeopatija_..."
               },
               {
+                "desc": "Lietuvos homeopatijos pradininku laikomas farmacininkas Juozas Matulaitis (1869–1964) bei jo mokinė Anelė Ivašauskienė . Šiandien homeopatijos kursas yra ...",
+                "favicon_text": "Wikipedia",
                 "pos": 9,
-                "url": "https://www.tiktok.com/@flamulina/video/7582187503063436546",
-                "desc": "Keywords: natūralios gydymo priemonės homeopatija, grybų nauda sveikatai, natūralioji medicina Lietuvoje, sveikatos patarimai natūraliai, ...",
-                "title": "Natūralios medicinos patarimai: homeopatija ir grybai",
-                "url_shown": "Peržiūrų: daugiau nei 5,4 tūkst.  ·  prieš 4 dienas",
                 "pos_overall": 9,
-                "favicon_text": "TikTok · Žalioji Ragana 🧿"
+                "title": "Homeopatija Lietuvoje",
+                "url": "https://lt.wikipedia.org/wiki/Homeopatija_Lietuvoje",
+                "url_shown": "https://lt.wikipedia.org› wiki › Homeopatija_Lietuvoje"
               },
               {
+                "desc": "2016-01-07 — I dalis: kas yra homeopatija ir kodėl ji vis dar egzistuoja. Arnoldas Pautienius. Su homeopatija viskas būtų gerai, jeigu ne viena maža ...",
+                "favicon_text": "Konstanta-42",
                 "pos": 10,
-                "url": "https://www.mokslobaze.lt/homeopatija.html",
-                "desc": "Gydytojai ir homeopatija. Farmacija. Mitai ir faktai apie homeopatiją. Homeopatinio gydymo ypatumai. Homeopatiniai vaistai. Homeopatiniai vaistai nuo peršalimo.",
-                "title": "Homeopatija",
-                "url_shown": "https://www.mokslobaze.lt› homeopatija",
                 "pos_overall": 10,
-                "favicon_text": "mokslobaze.lt"
+                "title": "Mokslo populiarinimo konkursas. Kas yra homeopatija ir ...",
+                "url": "https://www.konstanta.lt/2016/01/mokslo-populiarinimo-konkursas-kas-yra-homeopatija-ir-kodel-ji-vis-dar-egzistuoja/",
+                "url_shown": "https://www.konstanta.lt› įvairumai"
               }
             ],
+            "paid": [],
             "search_information": {
+              "no_results_for_original_query_found": false,
               "query": "homeopatija",
               "showing_results_for": "homeopatija",
-              "total_results_count": null,
               "time_taken_displayed": null,
-              "no_results_for_original_query_found": false
+              "total_results_count": null
             },
             "total_results_count": null
           },
+          "url": "https://www.google.com/search?q=homeopatija&source=hp&ei=OrK3ZITEEY6Ixc8P3NemmA4&iflsig=AD69kcEAAAAAZLfASni8y8AdTBIjpShc1wPCNRMLoubj&ved=0ahUKEwiEyafav5qAAxUORPEDHdyrCeMQ4dUDCAk&uact=5&oq=pizza&gs_lp=Egdnd3Mtd2l6IgVwaXp6YTILEC4YgAQYxwEY0QMyBRAAGIAEMgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAuGIAEGMcBGK8BMgsQLhiABBjHARivATIFEC4YgARI1ApQgARYyQlwAXgAkAEAmAF1oAGuBKoBAzAuNbgBA8gBAPgBAagCAA&sclient=gws-wiz&hl=lt&start=20"
+        },
+        "errors": [],
+        "status_code": 12000,
+        "task_id": "7416079129247777794"
+      },
+      "headers": {},
+      "status_code": 200,
+      "task_id": "7416079129247777794",
+      "created_at": "2026-01-11 11:30:48",
+      "updated_at": "2026-01-11 11:31:26"
+    },
+    {
+      "content": {
+        "results": {
           "last_visible_page": 10,
-          "parse_status_code": 12000
-        },
-        "errors": [],
-        "status_code": 12000,
-        "task_id": "7405992007916598273"
-      },
-      "headers": {},
-      "status_code": 200,
-      "task_id": "7405992007916598273",
-      "created_at": "2025-12-14 15:28:11",
-      "updated_at": "2025-12-14 15:28:30"
-    },
-    {
-      "content": {
-        "results": {
-          "url": "https://www.google.com/search?q=homeopatija&source=hp&ei=OrK3ZITEEY6Ixc8P3NemmA4&iflsig=AD69kcEAAAAAZLfASni8y8AdTBIjpShc1wPCNRMLoubj&ved=0ahUKEwiEyafav5qAAxUORPEDHdyrCeMQ4dUDCAk&uact=5&oq=pizza&gs_lp=Egdnd3Mtd2l6IgVwaXp6YTILEC4YgAQYxwEY0QMyBRAAGIAEMgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAuGIAEGMcBGK8BMgsQLhiABBjHARivATIFEC4YgARI1ApQgARYyQlwAXgAkAEAmAF1oAGuBKoBAzAuNbgBA8gBAPgBAagCAA&sclient=gws-wiz&hl=lt&start=50",
-          "page": 6,
+          "page": 4,
+          "parse_status_code": 12000,
           "results": {
-            "paid": [],
             "organic": [
               {
+                "desc": "2022-05-05 — Homeopatija gali būti iš tiesų naudinga tuo atveju, kai sveikatos sutrikimas nesunkus ir organizmui reikia tik šiek tiek pagalbos, norint su ...",
+                "favicon_text": "Delfi",
                 "pos": 1,
-                "url": "https://www.manovaistine.lt/visi-vaistai/homeopatiniai-vaistai",
-                "desc": "Homeopatiniai vaistai internetu. Homeopatinės tabletės, geriamieji lašai, tirpalai, purškalai ūminiams ligų simptomams sumažinti.",
-                "title": "Homeopatiniai vaistai | Internetinėje “MANO vaistinėje”",
-                "url_shown": "https://www.manovaistine.lt› visi-vaistai › homeopatinia...",
                 "pos_overall": 1,
-                "favicon_text": "www.manovaistine.lt"
+                "title": "8 faktai apie šiuolaikinę homeopatiją",
+                "url": "https://www.delfi.lt/gyvenimas/grozis_ir_sveikata/8-faktai-apie-siuolaikine-homeopatija-90137921",
+                "url_shown": "https://www.delfi.lt› Gyvenimas › Grožis ir sveikata"
               },
               {
+                "desc": "Homeopatija , visa svarbiausia įmonių informacija verslo portale vienoje vietoje: atsiliepimai, kontaktai, darbo laikas, kainos.",
+                "favicon_text": "Medicina.lt",
                 "pos": 2,
-                "url": "https://www.pasveik.lt/lt/rekomenduojamos-naujienos/8-idomybes-apie-homeopatija/66097/",
-                "desc": "2021-03-15 — Šiandien daugybė žmonių dairosi į tai, kas natūraliau. Homeopatija – vienas iš galimų būdų gydyti nesunkias ligas, tačiau į jį nereikėtų ...",
-                "title": "8 įdomybės apie homeopatiją",
-                "url_shown": "https://www.pasveik.lt› Home › Homeopatija šiandien",
                 "pos_overall": 2,
-                "favicon_text": "Pasveik.lt"
-              },
-              {
-                "pos": 3,
-                "url": "https://vegatestas.lt/kas-yra-ir-kas-nera-homeopatija/",
-                "desc": "Aš jau seniai nebebijau nutolti nuo homeopatijos. Čia kaip su potencijavimu – kadaise homeopatai manė, kad egzistuoja praskiedimo laipsnis, nuo kurio preparatas ...",
-                "title": "Kas yra ir kas nėra Homeopatija?",
-                "url_shown": "https://vegatestas.lt› kas-yra-ir-kas-nera-homeopatija",
-                "pos_overall": 3,
-                "favicon_text": "Dabartinė Homeopatija"
-              },
-              {
-                "pos": 4,
-                "url": "https://mamoszurnalas.lt/homeopatija-kitu-kampu-skaitykite-ka-sako-tie-kurie-ja-netiki/",
-                "desc": "Ar teisingai pasielgė vaiko gydytojas nedavęs siuntimo pas homeopatą, nors prašėme? Pasielgė teisingai. Lietuvos Sveikatos ministerijos įsakyme „Dėl asmens ...",
-                "title": "Homeopatija – kitu kampu. Skaitykite, ką sako tie, kurie ja ...",
-                "url_shown": "https://mamoszurnalas.lt› homeopatija-kitu-kampu-skai...",
-                "pos_overall": 4,
-                "favicon_text": "Mamos Žurnalas"
-              },
-              {
-                "pos": 5,
-                "url": "https://www.vca.lv/visi-pakalpojumi-vca/arstnieciba/homeopatija.html",
-                "desc": "Homeopātija ir medicīnas nozare, kas balstās uz pārliecību, ka organisms var izārstēt pats sevi – slimības simptomi ir organisma mēģinājums sevi izārstēt.",
-                "title": "Homeopātija - VCA",
-                "url_shown": "https://www.vca.lv› ... › Ārstniecība",
-                "pos_overall": 5,
-                "favicon_text": "vca.lv"
-              },
-              {
-                "pos": 6,
-                "url": "https://dati.zva.gov.lv/mtdb/31-papildinos-komplementrs-medicnas-medicniskie-pakalpojumi/homeopatijas-klasiskas-mediciniska-tehnologija",
-                "desc": "Homeopatiju izstrādāja un ieviesa ārsts Zāmuels Hānemanis. Homeopātija balstās uz 4 principiem, kas paliek nemainīgi jau 200 gadus: 1) Līdzīgs jāārstē ar ...",
-                "title": "Homeopātijas (klasiskās) medicīniskā tehnoloģija - ZVA IS dati",
-                "url_shown": "https://dati.zva.gov.lv› mtdb › home...",
-                "pos_overall": 6,
-                "favicon_text": "ZVA"
-              },
-              {
-                "pos": 7,
-                "url": "https://sveikatossodas.lt/naturalus-vaistai/homeopatija-ae-ypatingas-sveikatos-susigrazinimo-budas/",
-                "desc": "2006-11-16 — Homeopatiniais vaistais ligos simptomai nėra slopinami, jie tarsi „išmetami“ iš organizmo, todėl gydymo pradžioje būna pablogėjimas, tačiau ...",
-                "title": "Homeopatija - ypatingas sveikatos susigrąžinimo būdas",
-                "url_shown": "https://sveikatossodas.lt› Natūralūs vaistai",
-                "pos_overall": 7,
-                "favicon_text": "Sveikatos sodas"
-              },
-              {
-                "pos": 8,
-                "url": "https://poliklinika-mazalin.hr/blog/homeopatija/",
-                "desc": "2024-01-10 — U nastavku bloga saznajte istinu o homeopatiji, razotkrivamo njezinu povijest, kritike i važnost dokazane medicine za vaše zdravlje.",
                 "title": "Homeopatija",
-                "url_shown": "https://poliklinika-mazalin.hr› blog",
-                "pos_overall": 8,
-                "favicon_text": "Poliklinika Mazalin"
+                "url": "https://www.medicina.lt/paieska/homeopatija",
+                "url_shown": "https://www.medicina.lt› paieska › homeopatija"
               },
               {
-                "pos": 9,
-                "url": "https://www.delfi.lt/gyvenimas/grozis_ir_sveikata/homeopatija-geriausia-gydyti-letines-ligas-53667005",
-                "desc": "2012-01-03 — Kaip teigia gydytojas homeopatas Antanas Januškevičius, pastaruoju metu gydymasis homeopatiniais vaistais sulaukia vis mažiau prieštaringų ...",
-                "title": "Homeopatija geriausia gydyti lėtines ligas",
-                "url_shown": "https://www.delfi.lt› Gyvenimas › Grožis ir sveikata",
-                "pos_overall": 9,
-                "favicon_text": "Delfi"
-              },
-              {
-                "pos": 10,
-                "url": "https://www.vaistines.lt/dar-karta-apie-homeopatija/",
-                "desc": "2022-02-11 — Iš tikrųjų homeopatija – tai toks gydymo būdas, kai ligonių gydymui gydytojas homeopatas naudoja medikamentus labai mažomis dozėmis. Šį metodą ...",
-                "title": "Dar kartą apie homeopatiją - Vaistines LT",
-                "url_shown": "https://www.vaistines.lt› dar-karta-apie-homeopatija",
-                "pos_overall": 10,
-                "favicon_text": "vaistines.lt"
-              }
-            ],
-            "search_information": {
-              "query": "homeopatija",
-              "showing_results_for": "homeopatija",
-              "total_results_count": null,
-              "time_taken_displayed": null,
-              "no_results_for_original_query_found": false
-            },
-            "total_results_count": null
-          },
-          "last_visible_page": 10,
-          "parse_status_code": 12000
-        },
-        "errors": [],
-        "status_code": 12000,
-        "task_id": "7405992007916598273"
-      },
-      "headers": {},
-      "status_code": 200,
-      "task_id": "7405992007916598273",
-      "created_at": "2025-12-14 15:28:11",
-      "updated_at": "2025-12-14 15:28:31"
-    },
-    {
-      "content": {
-        "results": {
-          "url": "https://www.google.com/search?q=homeopatija&source=hp&ei=OrK3ZITEEY6Ixc8P3NemmA4&iflsig=AD69kcEAAAAAZLfASni8y8AdTBIjpShc1wPCNRMLoubj&ved=0ahUKEwiEyafav5qAAxUORPEDHdyrCeMQ4dUDCAk&uact=5&oq=pizza&gs_lp=Egdnd3Mtd2l6IgVwaXp6YTILEC4YgAQYxwEY0QMyBRAAGIAEMgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAuGIAEGMcBGK8BMgsQLhiABBjHARivATIFEC4YgARI1ApQgARYyQlwAXgAkAEAmAF1oAGuBKoBAzAuNbgBA8gBAPgBAagCAA&sclient=gws-wiz&hl=lt&start=60",
-          "page": 7,
-          "results": {
-            "paid": [],
-            "organic": [
-              {
-                "pos": 1,
-                "url": "https://homeopatskicentar-drmilic.hr/sto-homeopatija-lijeci/",
-                "desc": "(Pitate nas): \"Može li homeopatija pomoći kod…?\" Dugoročna dobrobit homeopatije za pacijenta je u tome što ne samo da ublažava prisutne simptome, već ...",
-                "title": "Što homeopatija liječi?",
-                "url_shown": "https://homeopatskicentar-drmilic.hr› ...",
-                "pos_overall": 1,
-                "favicon_text": "Homeopatski centar dr. Milić"
-              },
-              {
-                "pos": 2,
-                "url": "https://www.naturaliterapija.lt/",
-                "desc": "Holistinis požiūris į Jūsų sveikatą. Leiskite paaiškinti kaip holistinis gydymas gali būti Jums naudingas: Konsultacija persigus COVID-19. Nuovargis, ...",
-                "title": "Pradžia | Mysite",
-                "url_shown": "https://www.naturaliterapija.lt",
-                "pos_overall": 2,
-                "favicon_text": "naturaliterapija.lt"
-              },
-              {
+                "desc": "Homeopatijos gydymo principai iš esmės skiriasi nuo fitoterapijos (gydymu vaistažolėmis) · Netgi labiausiai koncentruoti kompleksiniai preparatai turi ypatingai ...",
+                "favicon_text": "Natūralaus gydymo centras",
                 "pos": 3,
-                "url": "https://www.tiktok.com/@flamulina/video/7580287782845713686",
-                "desc": "101 Likes, TikTok video from Žalioji Ragana (@flamulina): “Discover effective homeopathy tips for natural healing and wellness.",
-                "title": "Natural Remedies Using Homeopathy for Wellness",
-                "url_shown": "Peržiūrų: daugiau nei 2 tūkst.  ·  prieš 1 savaitę",
                 "pos_overall": 3,
-                "favicon_text": "TikTok · Žalioji Ragana 🧿"
+                "title": "Ar gali pakenkti homeopatiniai vaistai?",
+                "url": "https://ngc.lt/ar-gali-pakenkti-homeopatiniai-vaistai/",
+                "url_shown": "https://ngc.lt› ar-gali-pakenkti-homeopatiniai-vaistai"
               },
               {
+                "desc": "2025-06-17 — ... homeopatija. Kas tai yra, kada reikėtų kreiptis į homeopatą, pasakoja Grožio terapijos ir kosmetologijos centro gydytojas homeopatas ...",
+                "favicon_text": "homeopat.lt",
                 "pos": 4,
-                "url": "https://www.manosveikata.lt/medicina/gydymas-gydymo-centrai/ko-nezinome-apie-homeopatija/",
-                "desc": "Homeopatija - šiuolaikinė liaudies medicina, kuri nekenkia organizmui ir išgydo visas ligas, ar pseudomokslas, kuris nėra pranešnis negu gydymas placebo ar ...",
-                "title": "Ko nežinome apie homeopatiją?",
-                "url_shown": "https://www.manosveikata.lt› gydymas-gydymo-centrai",
                 "pos_overall": 4,
-                "favicon_text": "Manosveikata.lt"
+                "title": "Homeopatija – kitoks gydymas – Homeopat",
+                "url": "https://homeopat.lt/homeopatija-kitoks-gydymas/",
+                "url_shown": "https://homeopat.lt› homeopatija-kitoks-gydymas"
               },
               {
+                "desc": "Gydykis tuo, nuo ko susirgai! Netradicinės medicinos šaka – HOMEOPATIJA - vis labiau populiarėja ir vis mažiau stebina bei kelia klausimų dėl tokio gydymo ...",
+                "favicon_text": "homeopatai.lt",
                 "pos": 5,
-                "url": "https://www.medigroup.rs/blog/homeopatija/",
-                "desc": "2024-01-23 — Homeopatija je nastala pre više od 200 godina, a osnivač je bio Samuel Hahneman (1755. – 1843.), čuveni nemački doktor i naučnik tog vremena.",
-                "title": "Homeopatija",
-                "url_shown": "https://www.medigroup.rs› blog",
                 "pos_overall": 5,
-                "favicon_text": "MediGroup"
+                "title": "Homeopatija - kas tai? - homeopatai. ...",
+                "url": "https://www.homeopatai.lt/homeopatija-kas-tai/",
+                "url_shown": "https://www.homeopatai.lt› Straipsniai"
               },
               {
+                "desc": "2021-05-26 — Homeopatija – ne išimtis. Lietuviškoji Vikipedija homeopatiją vadina pseudomokslu, o štai vokiškoji įvardina kaip alternatyvų medicininį gydymo ...",
+                "favicon_text": "tv3.lt",
                 "pos": 6,
-                "url": "https://www.homeopatai.lt/homeopatija-kitaip/",
-                "desc": "Pagrindinis arba vienas iš pagrindinių homeopatijos metodų – Folio metodas. Folio metodo esmė yra ta, kad su specialia aparatūra yra nustatomas kiekvienos ...",
-                "title": "Kitaip!",
-                "url_shown": "https://www.homeopatai.lt› Straipsniai",
                 "pos_overall": 6,
-                "favicon_text": "homeopatai.lt"
+                "title": "Homeopatija: kaip vertinti ir kuo tikėti?",
+                "url": "https://www.tv3.lt/naujiena/gyvenimas/homeopatija-kaip-vertinti-ir-kuo-tiketi-n1097825",
+                "url_shown": "https://www.tv3.lt› Gyvenimas"
               },
               {
+                "desc": "Remiantis tuometiniais įstatymais, homeopatiniu gydymu galėdavo užsiimti tik turintys gydytojo diplomą, o tokias vaistines atidaryti buvo leidžiama tik ...",
+                "favicon_text": "Parapharm homeopatijos vaistinė",
                 "pos": 7,
-                "url": "https://www.homeopatija-peternelj.si/kaj-je-homeopatija/",
-                "desc": "Homeopatija je edinstven in samostojen sistem zdravljenja. Beseda homeopatija je grškega izvora in se nanaša na načelo homeopatije, da se podobno zdravi s ...",
-                "title": "Kaj je homeopatija?",
-                "url_shown": "https://www.homeopatija-peternelj.si› ...",
                 "pos_overall": 7,
-                "favicon_text": "Homeopatija Peternelj"
+                "title": "Homeopatija Lietuvoje",
+                "url": "https://parapharm.lt/homeopatija-lietuvoje/",
+                "url_shown": "https://parapharm.lt› homeopatija-lietuvoje"
               },
               {
+                "desc": "2022-02-07 — Kā apgalvo paši eksperti, homeopātija neapslāpē slimības simptomus, bet tā vietā tiek stiprināti organisma dabiskie dziedināšanās procesi, ...",
+                "favicon_text": "InternetAptieka",
                 "pos": 8,
-                "url": "http://www.jumsinfo.lt/lt/straipsniai/homeopatijos_principai_ir_taikomas_gydymas/",
-                "desc": "2014-12-19 — Klasikinės homeopatijos pradininkas - vokiečių gydytojas Samuelis Hahnemannas(1755-1843). Homeopatijos sąvoka kilusi iš graikų kalbos ir ...",
-                "title": "Homeopatijos principai ir taikomas gydymas",
-                "url_shown": "http://www.jumsinfo.lt› straipsniai › homeopatijos_princ...",
                 "pos_overall": 8,
-                "favicon_text": "jumsinfo.lt"
+                "title": "Kas ir homeopātija?",
+                "url": "https://internetaptieka.lv/musu-raksti/veseliba/kas-ir-homeopatija",
+                "url_shown": "https://internetaptieka.lv› veseliba"
               },
               {
-                "pos": 9,
-                "url": "https://siuolaikinehomeopatija.lt/zodynelis/",
-                "desc": "Alopatija. (allos – liga) žinios, suteikiamos universitetuose ir medicininėse mokslo įstaigose (kitaip vad. akademine medicina, mokykline medicina, ...",
-                "title": "Žodynėlis",
-                "url_shown": "https://siuolaikinehomeopatija.lt› zodynelis",
-                "pos_overall": 9,
-                "favicon_text": "Šiuolaikinė homeopatija -"
-              },
-              {
-                "pos": 10,
-                "url": "https://mokslai.lietuviuzodynas.lt/biologija/homeopatija",
-                "desc": "Alopatijoje (tai – gydymas priešingu) medikamentai skiriami slopinti tam tikras organizmo reakcijas (pvz., analgetikai, priešuždegiminiai ir kt. vaistai).",
-                "title": "HOMEOPATIJA",
-                "url_shown": "https://mokslai.lietuviuzodynas.lt› biologija › homeopa...",
-                "pos_overall": 10,
-                "favicon_text": "mokslai.lietuviuzodynas.lt"
-              }
-            ],
-            "search_information": {
-              "query": "homeopatija",
-              "showing_results_for": "homeopatija",
-              "total_results_count": null,
-              "time_taken_displayed": null,
-              "no_results_for_original_query_found": false
-            },
-            "total_results_count": null
-          },
-          "last_visible_page": 11,
-          "parse_status_code": 12000
-        },
-        "errors": [],
-        "status_code": 12000,
-        "task_id": "7405992007916598273"
-      },
-      "headers": {},
-      "status_code": 200,
-      "task_id": "7405992007916598273",
-      "created_at": "2025-12-14 15:28:11",
-      "updated_at": "2025-12-14 15:28:32"
-    },
-    {
-      "content": {
-        "results": {
-          "url": "https://www.google.com/search?q=homeopatija&source=hp&ei=OrK3ZITEEY6Ixc8P3NemmA4&iflsig=AD69kcEAAAAAZLfASni8y8AdTBIjpShc1wPCNRMLoubj&ved=0ahUKEwiEyafav5qAAxUORPEDHdyrCeMQ4dUDCAk&uact=5&oq=pizza&gs_lp=Egdnd3Mtd2l6IgVwaXp6YTILEC4YgAQYxwEY0QMyBRAAGIAEMgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAuGIAEGMcBGK8BMgsQLhiABBjHARivATIFEC4YgARI1ApQgARYyQlwAXgAkAEAmAF1oAGuBKoBAzAuNbgBA8gBAPgBAagCAA&sclient=gws-wiz&hl=lt&start=70",
-          "page": 8,
-          "results": {
-            "paid": [],
-            "organic": [
-              {
-                "pos": 1,
-                "url": "https://mokslai.lietuviuzodynas.lt/biologija/homeopatija",
-                "desc": "Alopatijoje (tai – gydymas priešingu) medikamentai skiriami slopinti tam tikras organizmo reakcijas (pvz., analgetikai, priešuždegiminiai ir kt. vaistai).",
-                "title": "HOMEOPATIJA",
-                "url_shown": "https://mokslai.lietuviuzodynas.lt› biologija › homeopa...",
-                "pos_overall": 1,
-                "favicon_text": "mokslai.lietuviuzodynas.lt"
-              },
-              {
-                "pos": 2,
-                "url": "https://www.medicina.lt/paieska/homeopatas",
-                "desc": "Homeopatas , visa svarbiausia įmonių informacija verslo portale vienoje vietoje: atsiliepimai, kontaktai, darbo laikas, kainos.",
-                "title": "Homeopatas",
-                "url_shown": "https://www.medicina.lt› paieska › homeopatas",
-                "pos_overall": 2,
-                "favicon_text": "Medicina.lt"
-              },
-              {
-                "pos": 3,
-                "url": "https://kauno.diena.lt/naujienos/sveikata/sveikata/homeopatija-issukis-siuolaikiniam-gyvenimo-budui-661529",
-                "desc": "2014-11-26 — Stipresnius peršalimo simptomus pajutusi moteris kreipėsi pagalbos į vaistininkę, o kai šioji pasiūlė išmėginti homeopatinius preparatus, ...",
-                "title": "Homeopatija – iššūkis šiuolaikiniam gyvenimo būdui?",
-                "url_shown": "https://kauno.diena.lt› Naujienos › Sveikata › Sveikata",
-                "pos_overall": 3,
-                "favicon_text": "Kauno diena"
-              },
-              {
-                "pos": 4,
-                "url": "https://www.pasveik.lt/lt/homeopatija-siandien/homeopatija-gydo-ne-liga-bet-ligoni/6187/",
-                "desc": "2014-10-16 — Susidomėjimas homeopatija ir homeopatiniais vaistais vis didėja. Kuo homeopatinio gydymo principai skiriasi nuo įprastinio, ...",
-                "title": "Homeopatija gydo ne ligą, bet ligonį",
-                "url_shown": "https://www.pasveik.lt› Home › Homeopatija šiandien",
-                "pos_overall": 4,
-                "favicon_text": "Pasveik.lt"
-              },
-              {
-                "pos": 5,
-                "url": "https://welovelithuania.com/lietuvoje/kas-yra-homeopatija/",
-                "desc": "2024-12-19 — Homeopatija – gydymo menas ar placebo efektas? · Recent Posts · Chorų muzikos šviesa – Šv. · Kalėdos Energetikos ir technikos muziejuje – Kalėdų ...",
-                "title": "kas yra homeopatija?",
-                "url_shown": "https://welovelithuania.com› lietuvoje › kas-yra-home...",
-                "pos_overall": 5,
-                "favicon_text": "We love Lithuania"
-              },
-              {
-                "pos": 6,
-                "url": "https://www.tiktok.com/@flamulina/video/7579990557653536022",
-                "desc": "698 Likes, 131 Comments. TikTok video from Žalioji Ragana (@flamulina): “Atraskite efektyvų tepalą probleminei odai su natūraliais ...",
-                "title": "Tepalas probleminei odai – efektyvus sprendimas",
-                "url_shown": "Peržiūrų: daugiau nei 38,1 tūkst.  ·  prieš 1 savaitę",
-                "pos_overall": 6,
-                "favicon_text": "TikTok · Žalioji Ragana 🧿"
-              },
-              {
-                "pos": 7,
-                "url": "https://www.homeopatija.com/sto-je-homeopatija/",
-                "desc": "Homeopatski lijekovi djeluju tako da pomažu u samoobrani organizma. Oni nas \"cijepe\" protiv bolesti. Homeopatija shvaća bolest kao posljedicu poremećaja u samom ...",
-                "title": "Što je homeopatija",
-                "url_shown": "https://www.homeopatija.com› sto-j...",
-                "pos_overall": 7,
-                "favicon_text": "Homeolab"
-              },
-              {
-                "pos": 8,
-                "url": "https://vaistai.lt/Kas-yra-homeopatija-ir-kodel-ji-vis-dar-egzistuoja-6623.html",
-                "desc": "Nežinia kokia energija reikia paveikti ar kokiais garais apnuodyti gydytoją, kad šis išsižadėtų įrodymais grįstos medicinos principų, ir pripažintų terapijos ...",
-                "title": "Kas yra homeopatija ir kodėl ji vis dar egzistuoja",
-                "url_shown": "https://vaistai.lt› ... › Sveikata › Straipsniai",
-                "pos_overall": 8,
-                "favicon_text": "vaistai.lt"
-              },
-              {
-                "pos": 9,
-                "url": "https://www.sanolabor.si/",
-                "desc": "Prehranska dopolnila in medicinski pripomočki - največja mreža specializiranih prodajaln. Strokovno svetovanje in enostavno naročilo preko spleta.",
-                "title": "Sanolabor",
-                "url_shown": "https://www.sanolabor.si",
-                "pos_overall": 9,
-                "favicon_text": "Sanolabor"
-              },
-              {
-                "pos": 10,
-                "url": "https://www.vlmedicina.lt/lt/kada-homeopatiniai-vaistai-yra-puiki-gydymo-priemone",
-                "desc": "2017-03-22 — Sudėtingų ligų, tokių kaip plaučių uždegimas, vėžys, vien homeopatiniais vaistais medikai tikrai negydytų, bet kitais atvejais tai puiki ...",
-                "title": "Kada homeopatiniai vaistai yra puiki gydymo priemonė",
-                "url_shown": "https://www.vlmedicina.lt› kada-homeopatiniai-vaistai-...",
-                "pos_overall": 10,
-                "favicon_text": "VLmedicina"
-              }
-            ],
-            "search_information": {
-              "query": "homeopatija",
-              "showing_results_for": "homeopatija",
-              "total_results_count": null,
-              "time_taken_displayed": null,
-              "no_results_for_original_query_found": false
-            },
-            "total_results_count": null
-          },
-          "last_visible_page": 12,
-          "parse_status_code": 12000
-        },
-        "errors": [],
-        "status_code": 12000,
-        "task_id": "7405992007916598273"
-      },
-      "headers": {},
-      "status_code": 200,
-      "task_id": "7405992007916598273",
-      "created_at": "2025-12-14 15:28:11",
-      "updated_at": "2025-12-14 15:28:34"
-    },
-    {
-      "content": {
-        "results": {
-          "url": "https://www.google.com/search?q=homeopatija&source=hp&ei=OrK3ZITEEY6Ixc8P3NemmA4&iflsig=AD69kcEAAAAAZLfASni8y8AdTBIjpShc1wPCNRMLoubj&ved=0ahUKEwiEyafav5qAAxUORPEDHdyrCeMQ4dUDCAk&uact=5&oq=pizza&gs_lp=Egdnd3Mtd2l6IgVwaXp6YTILEC4YgAQYxwEY0QMyBRAAGIAEMgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAuGIAEGMcBGK8BMgsQLhiABBjHARivATIFEC4YgARI1ApQgARYyQlwAXgAkAEAmAF1oAGuBKoBAzAuNbgBA8gBAPgBAagCAA&sclient=gws-wiz&hl=lt&start=80",
-          "page": 9,
-          "results": {
-            "paid": [],
-            "organic": [
-              {
-                "pos": 1,
-                "url": "https://www.benu.lt/prekiu-krepselis?srsltid=AfmBOor-QCTM7l-YGkEDNWgYA8sWDbGRvbBfoDro7HKq6DTWgihvJCEP",
-                "desc": "BENU Vaistinės yra patikimos, saugios ir profesionalios. BENU Vaistinėse siekiama savo klientams pasiūlyti aplinką, kurioje jausitės saugiai ir užtikrintai.",
-                "title": "Prekių krepšelis | BENU vaistinė internete – Nes jūs .. ...",
-                "url_shown": "https://www.benu.lt› prekiu-krepselis",
-                "pos_overall": 1,
-                "favicon_text": "BENU.lt"
-              },
-              {
-                "pos": 2,
-                "url": "https://www.stetoskop.info/homeopatija/homeopatija",
-                "desc": "Održavanje homeostaze - stalnost parametra fiziološkog funkcionisanja organizma. Održavanje telesne temperature, krvnog pritiska i sl. metode Homeopatije.",
-                "title": "Šta je homeopatija, vrste, lekovi",
-                "url_shown": "https://www.stetoskop.info› homeo...",
-                "pos_overall": 2,
-                "favicon_text": "Stetoskop.info"
-              },
-              {
-                "pos": 3,
-                "url": "https://balkans.aljazeera.net/video/2014/3/12/kontekst-homeopatija",
-                "desc": "2014-03-12 — Koliko je uspješna i po kojem principu funkcioniše homeopatija? Kada i koliko može zamijeniti savremene medicinske metode?",
-                "title": "Kontekst: Homeopatija | Medicina",
-                "url_shown": "https://balkans.aljazeera.net› video › kontekst-homeop...",
-                "pos_overall": 3,
-                "favicon_text": "Al Jazeera Balkans"
-              },
-              {
-                "pos": 4,
-                "url": "https://www.delfi.lt/gyvenimas/grozis_ir_sveikata/homeopatija-geriausia-gydyti-letines-ligas-53667005",
-                "desc": "2012-01-03 — Kaip teigia gydytojas homeopatas Antanas Januškevičius, pastaruoju metu gydymasis homeopatiniais vaistais sulaukia vis mažiau prieštaringų ...",
-                "title": "Homeopatija geriausia gydyti lėtines ligas",
-                "url_shown": "https://www.delfi.lt› Gyvenimas › Grožis ir sveikata",
-                "pos_overall": 4,
-                "favicon_text": "Delfi"
-              },
-              {
-                "pos": 5,
-                "url": "https://www.lekarnar.com/",
-                "desc": "Spletna lekarna Lekarnar.com. Zdravila brez recepta, prehranska dopolnila, kozmetika in ostali izdelki, ki so na voljo v lekarnah...",
-                "title": "Lekarnar.com: Spletna lekarna",
-                "url_shown": "https://www.lekarnar.com",
-                "pos_overall": 5,
-                "favicon_text": "Lekarnar.com - Spletna lekarna"
-              },
-              {
-                "pos": 6,
-                "url": "https://www.youtube.com/watch?v=dBulTs1MxH8",
-                "desc": "blictv #blictv2023 #kanal117 Emisija: Moj dan Blic dan Termin emitovanja: Radnim danima od 14:30 Voditelji: Sofija Spasojević i Aleksandar ...",
-                "title": "Slično se sličnim leči! Šta je to HOMEOPATIJA? | MOJ DAN ...",
-                "url_shown": "Peržiūrų: daugiau nei 440  ·  prieš 1 metus",
-                "pos_overall": 6,
-                "favicon_text": "YouTube · Blic TV"
-              },
-              {
-                "pos": 7,
-                "url": "https://bs.wikipedia.org/wiki/Homeopatija",
-                "desc": "όμοιος, hómoios (sličan) + πάθος, páthos (patnja,bol). Sam naziv najbolje objašnjava homeopatsku filozofiju: Liječenje onim što prouzrokuje patnju sličnu onoj ...",
-                "title": "Homeopatija",
-                "url_shown": "https://bs.wikipedia.org› wiki › Ho...",
-                "pos_overall": 7,
-                "favicon_text": "Wikipedia"
-              },
-              {
-                "pos": 8,
-                "url": "https://www.homeopatai.lt/homeopatija-kitaip/",
-                "desc": "Pagrindinis arba vienas iš pagrindinių homeopatijos metodų – Folio metodas. Folio metodo esmė yra ta, kad su specialia aparatūra yra nustatomas kiekvienos ...",
-                "title": "Kitaip!",
-                "url_shown": "https://www.homeopatai.lt› Straipsniai",
-                "pos_overall": 8,
-                "favicon_text": "homeopatai.lt"
-              },
-              {
-                "pos": 9,
-                "url": "https://www.curantur.lv/homeopatija/kas-ir-homeopatija/",
-                "desc": "Homeopātija – dabisks veids veselības uzlabošanai un uzturēšanai · Homeopātija ir droša un saudzīga alternatīvās medicīnas sistēma, kas lieto no dabas vielām ...",
-                "title": "Kas ir Homeopātija",
-                "url_shown": "https://www.curantur.lv› kas-ir-ho...",
-                "pos_overall": 9,
-                "favicon_text": "Curantur.lv"
-              },
-              {
-                "pos": 10,
-                "url": "https://mojaljekarna.hr/",
-                "desc": "Online ljekarna sa proizvodima iz kategorija kozmetike, dodaci prehrani, anti-age, kreme za bore, medicinski proizvodi.",
-                "title": "Online ljekarna Coner",
-                "url_shown": "https://mojaljekarna.hr› ... › Kolagen",
-                "pos_overall": 10,
-                "favicon_text": "Online ljekarna Coner"
-              }
-            ],
-            "search_information": {
-              "query": "homeopatija",
-              "showing_results_for": "homeopatija",
-              "total_results_count": null,
-              "time_taken_displayed": null,
-              "no_results_for_original_query_found": false
-            },
-            "total_results_count": null
-          },
-          "last_visible_page": 13,
-          "parse_status_code": 12000
-        },
-        "errors": [],
-        "status_code": 12000,
-        "task_id": "7405992007916598273"
-      },
-      "headers": {},
-      "status_code": 200,
-      "task_id": "7405992007916598273",
-      "created_at": "2025-12-14 15:28:11",
-      "updated_at": "2025-12-14 15:28:35"
-    },
-    {
-      "content": {
-        "results": {
-          "url": "https://www.google.com/search?q=homeopatija&source=hp&ei=OrK3ZITEEY6Ixc8P3NemmA4&iflsig=AD69kcEAAAAAZLfASni8y8AdTBIjpShc1wPCNRMLoubj&ved=0ahUKEwiEyafav5qAAxUORPEDHdyrCeMQ4dUDCAk&uact=5&oq=pizza&gs_lp=Egdnd3Mtd2l6IgVwaXp6YTILEC4YgAQYxwEY0QMyBRAAGIAEMgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAuGIAEGMcBGK8BMgsQLhiABBjHARivATIFEC4YgARI1ApQgARYyQlwAXgAkAEAmAF1oAGuBKoBAzAuNbgBA8gBAPgBAagCAA&sclient=gws-wiz&hl=lt&start=90",
-          "page": 10,
-          "results": {
-            "paid": [],
-            "organic": [
-              {
-                "pos": 1,
-                "url": "https://mandispharmljekarne.hr/webshop/",
-                "desc": "LRP i Vichy -30% akcija 13.12.-14.12. LINK. 01d. 12h. 59m. 54s.",
-                "title": "Košarica",
-                "url_shown": "https://mandispharmljekarne.hr› we...",
-                "pos_overall": 1,
-                "favicon_text": "Mandis Pharm Ljekarne"
-              },
-              {
-                "pos": 2,
-                "url": "https://www.delo.si/mnenja/kolumne/slepec-vodi-slepe",
-                "desc": "2025-07-12 — Britanske stavnice so do zadnjega računale na premierovo zmago. V Sloveniji pa je od začetka jasno, da so Golobove možnosti pičle.",
-                "title": "Slepec vodi slepe",
-                "url_shown": "https://www.delo.si› ... › Kolumne",
-                "pos_overall": 2,
-                "favicon_text": "Delo.si"
-              },
-              {
-                "pos": 3,
-                "url": "https://www.homeopatai.lt/",
-                "desc": "Tradiciniai vaistai dažnai pašalina tik simptomus, negydydami pačios ligos. Būtent homeopatija gali sužadinti organizmo vidines galias, kurios privers organizmą ...",
-                "title": "Homeopatai.lt",
-                "url_shown": "https://www.homeopatai.lt",
-                "pos_overall": 3,
-                "favicon_text": "homeopatai.lt"
-              },
-              {
-                "pos": 4,
-                "url": "https://euromedic.rs/usluge/",
-                "desc": "Dijagnostika. U Euromedik ustanovama možete obaviti sve vrste dijagnostičkih pregleda pomoću savremenih Simensovih aparata: ultrazvučni pregled- neinvazivna ...",
-                "title": "Usluge",
-                "url_shown": "https://euromedic.rs› usluge",
-                "pos_overall": 4,
-                "favicon_text": "Euromedik"
-              },
-              {
-                "pos": 5,
-                "url": "https://www.youtube.com/watch?v=qUaZJvbO898",
-                "desc": "Šta je homeopatija i u čemu se razlikuje od tradicionalne medicine? Postoje li predrasude o njoj i zašto? Ko su stručnjaci koji se njome ...",
-                "title": "Šta je homeopatija?",
-                "url_shown": "Peržiūrų: daugiau nei 730  ·  prieš 1 metus",
-                "pos_overall": 5,
-                "favicon_text": "YouTube · Radio-televizija Vojvodine"
-              },
-              {
-                "pos": 6,
-                "url": "https://www.medicina.lt/paieska/homeopatai/20-20",
-                "desc": "Homeopatai , visa svarbiausia įmonių informacija verslo portale vienoje vietoje: atsiliepimai, kontaktai, darbo laikas, kainos. Rezultatai (21 - 40)",
-                "title": "Homeopatai - Medicina.lt (21-40)",
-                "url_shown": "https://www.medicina.lt› paieska › homeopatai",
-                "pos_overall": 6,
-                "favicon_text": "Medicina.lt"
-              },
-              {
-                "pos": 7,
-                "url": "https://eljekarna24.hr/",
-                "desc": "Vaša pouzdana online ljekarna s širokim izborom proizvoda za podršku zdravlju, njegu i medicinsku opremu. Sigurna kupnja i brza dostava!",
-                "title": "Eljekarna24 - Vaša Online Ljekarna za podršku zdravlju i ljepoti",
-                "url_shown": "https://eljekarna24.hr",
-                "pos_overall": 7,
-                "favicon_text": "Eljekarna24"
-              },
-              {
-                "pos": 8,
-                "url": "https://www.pasveik.lt/lt/homeopatija-siandien/",
                 "desc": "Daugybė asmenų homeopatiją tapatina su gydymą žolelėmis. Nors apie 70 proc. homeopatinių preparatų pagaminta iš augalinės kilmės žaliavų, homeopatija ir ...",
-                "title": "Homeopatija šiandien",
-                "url_shown": "https://www.pasveik.lt› homeopatija-siandien",
-                "pos_overall": 8,
-                "favicon_text": "Pasveik.lt"
-              },
-              {
+                "favicon_text": "Pasveik.lt",
                 "pos": 9,
-                "url": "https://www.tvojaljekarna.com/",
-                "desc": "Popusti i do 90% na top proizvode. Besplatna dostava.",
-                "title": "Tvoja Ljekarna - Najjeftinija i najveća internet ljekarna u ...",
-                "url_shown": "https://www.tvojaljekarna.com",
                 "pos_overall": 9,
-                "favicon_text": "Tvoja Ljekarna"
+                "title": "Homeopatija šiandien",
+                "url": "https://www.pasveik.lt/lt/homeopatija-siandien/",
+                "url_shown": "https://www.pasveik.lt› homeopatija-siandien"
               },
               {
+                "desc": "Susidomėjimas homeopatija ir homeopatiniais vaistais vis didėja. Kuo homeopatinio gydymo principai skiriasi nuo įprastinio, homeopatiniai vaistai – nuo ...",
+                "favicon_text": "Sveikas Žmogus",
                 "pos": 10,
-                "url": "https://www.lekarnaljubljana.si/",
-                "desc": "V Lekarni Ljubljana posvečamo pozornost ohranjanju zdravja in izvajanju farmacevtske skrbi za občane ter z oskrbo zdravstvenih zavodov z zdravili in ...",
-                "title": "Lekarna Ljubljana",
-                "url_shown": "https://www.lekarnaljubljana.si",
                 "pos_overall": 10,
-                "favicon_text": "Lekarna Ljubljana"
+                "title": "Homeopatija gydo ne ligą, bet ligonį",
+                "url": "https://www.sveikaszmogus.lt/Terapijos-2350-Homeopatija_gydo_ne_liga_bet_ligoni",
+                "url_shown": "https://www.sveikaszmogus.lt› Terapijos-2350-Homeop..."
               }
             ],
+            "paid": [],
             "search_information": {
+              "no_results_for_original_query_found": false,
               "query": "homeopatija",
               "showing_results_for": "homeopatija",
-              "total_results_count": null,
               "time_taken_displayed": null,
-              "no_results_for_original_query_found": false
+              "total_results_count": null
             },
             "total_results_count": null
           },
-          "last_visible_page": 14,
-          "parse_status_code": 12000
+          "url": "https://www.google.com/search?q=homeopatija&source=hp&ei=OrK3ZITEEY6Ixc8P3NemmA4&iflsig=AD69kcEAAAAAZLfASni8y8AdTBIjpShc1wPCNRMLoubj&ved=0ahUKEwiEyafav5qAAxUORPEDHdyrCeMQ4dUDCAk&uact=5&oq=pizza&gs_lp=Egdnd3Mtd2l6IgVwaXp6YTILEC4YgAQYxwEY0QMyBRAAGIAEMgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAuGIAEGMcBGK8BMgsQLhiABBjHARivATIFEC4YgARI1ApQgARYyQlwAXgAkAEAmAF1oAGuBKoBAzAuNbgBA8gBAPgBAagCAA&sclient=gws-wiz&hl=lt&start=30"
         },
         "errors": [],
         "status_code": 12000,
-        "task_id": "7405992007916598273"
+        "task_id": "7416079129247777794"
       },
       "headers": {},
       "status_code": 200,
-      "task_id": "7405992007916598273",
-      "created_at": "2025-12-14 15:28:11",
-      "updated_at": "2025-12-14 15:28:37"
+      "task_id": "7416079129247777794",
+      "created_at": "2026-01-11 11:30:48",
+      "updated_at": "2026-01-11 11:31:36"
+    },
+    {
+      "content": {
+        "results": {
+          "last_visible_page": 10,
+          "page": 5,
+          "parse_status_code": 12000,
+          "results": {
+            "organic": [
+              {
+                "desc": "Alopatijoje (tai – gydymas priešingu) medikamentai skiriami slopinti tam tikras organizmo reakcijas (pvz., analgetikai, priešuždegiminiai ir kt. vaistai).",
+                "favicon_text": "mokslai.lietuviuzodynas.lt",
+                "pos": 1,
+                "pos_overall": 1,
+                "title": "HOMEOPATIJA",
+                "url": "https://mokslai.lietuviuzodynas.lt/biologija/homeopatija",
+                "url_shown": "https://mokslai.lietuviuzodynas.lt› biologija › homeopa..."
+              },
+              {
+                "desc": "2017-03-28 — Sudėtingų ligų, tokių kaip plaučių uždegimas, onkologinės ligos, vien homeopatiniais vaistais medikai tikrai negydytų, b...",
+                "favicon_text": "LRT",
+                "pos": 2,
+                "pos_overall": 2,
+                "title": "Kada homeopatiniai vaistai yra puiki gydymo priemonė",
+                "url": "https://www.lrt.lt/naujienos/tavo-lrt/15/165656/kada-homeopatiniai-vaistai-yra-puiki-gydymo-priemone?srsltid=AfmBOoozC4A731ImRhDnZSYtJYsIUeAWS5QYmpEyCp3ShZOLw62fopNk",
+                "url_shown": "https://www.lrt.lt› Tavo LRT"
+              },
+              {
+                "desc": "Homeopathy or homoeopathy is a pseudoscientific system of alternative medicine. It was conceived in 1796 by the German physician Samuel Hahnemann.",
+                "favicon_text": "Wikipedia",
+                "pos": 3,
+                "pos_overall": 3,
+                "title": "Homeopathy",
+                "url": "https://en.wikipedia.org/wiki/Homeopathy",
+                "url_shown": "https://en.wikipedia.org› wiki › Ho..."
+              },
+              {
+                "desc": "2024-09-27 — Homeopatija yra paremta dviem maginiais principais, kurie suveikia, kai suveikia abu kartu: Panašų gydyti panašiu - nesvarbu, ar pagal šiaip ...",
+                "favicon_text": "Pipedija",
+                "pos": 4,
+                "pos_overall": 4,
+                "title": "Homeopatija",
+                "url": "https://www.pipedija.com/index.php/Homeopatija",
+                "url_shown": "https://www.pipedija.com› index.php › Homeopatija"
+              },
+              {
+                "desc": "Tokią galimybę suteiks homeopatiniai preparatai, esantys Detox-Kit rinkinyje: Nux vomica-Homaccord geriamieji lašai,. Berberis-Homaccord geriamieji lašai,.",
+                "favicon_text": "Šiuolaikinė homeopatija -",
+                "pos": 5,
+                "pos_overall": 5,
+                "title": "Moterys ir homeopatija",
+                "url": "https://siuolaikinehomeopatija.lt/moterys-ir-homeopatija/",
+                "url_shown": "https://siuolaikinehomeopatija.lt› moterys-ir-homeopatija"
+              },
+              {
+                "desc": "2014-10-15 — Homeopatija yra pseudomokslas, o homeopatiniai vaistai neveikia. Jų magiškas poveikis tėra placebo efektas. Deja, tiek Lietuvoje, tiek ...",
+                "favicon_text": "Delfi",
+                "pos": 6,
+                "pos_overall": 6,
+                "title": "Nuomonė: homeopatija – didžiausia medicinos apgaulė",
+                "url": "https://www.delfi.lt/gyvenimas/grozis_ir_sveikata/nuomone-homeopatija-didziausia-medicinos-apgaule-66125810",
+                "url_shown": "https://www.delfi.lt› Gyvenimas › Grožis ir sveikata"
+              },
+              {
+                "desc": "Ar teisingai pasielgė vaiko gydytojas nedavęs siuntimo pas homeopatą, nors prašėme? Pasielgė teisingai. Lietuvos Sveikatos ministerijos įsakyme „Dėl asmens ...",
+                "favicon_text": "Mamos Žurnalas",
+                "pos": 7,
+                "pos_overall": 7,
+                "title": "Homeopatija – kitu kampu. Skaitykite, ką sako tie, kurie ja ...",
+                "url": "https://mamoszurnalas.lt/homeopatija-kitu-kampu-skaitykite-ka-sako-tie-kurie-ja-netiki/",
+                "url_shown": "https://mamoszurnalas.lt› homeopatija-kitu-kampu-skai..."
+              },
+              {
+                "desc": "Oscillo is a flu medicine that reduces the duration and severity of flu symptoms. It is non-drowsy and does not interact with other medicine.",
+                "favicon_text": "Oscillococcinum",
+                "pos": 8,
+                "pos_overall": 8,
+                "title": "Oscillococcinum: Homeopathic Medicine for Flu Symptoms",
+                "url": "https://www.oscillo.com/",
+                "url_shown": "https://www.oscillo.com"
+              },
+              {
+                "desc": "2022-05-31 — Homeopatija remiasi individualiu kiekvieno žmogaus atveju ir viso organizmo harmonizavimo principu - norint parinkti vaistą ar gydymo būdą ...",
+                "favicon_text": "Vega testas",
+                "pos": 9,
+                "pos_overall": 9,
+                "title": "Homeopatija | Vega testas - Eglė Aukštakalnienė",
+                "url": "https://www.vegatestas-eglejura.com/homeopatija/",
+                "url_shown": "https://www.vegatestas-eglejura.com› homeopatija"
+              },
+              {
+                "desc": "Homeopate smatraju da um, telo i emocije nisu razdvojeni. Cilj je prepoznavanje i otklanjanje uzroka bolesti. Osoba se leči kao celina, a lek deluje na sve ...",
+                "favicon_text": "Stetoskop.info",
+                "pos": 10,
+                "pos_overall": 10,
+                "title": "Kako homeopatija deluje - Šta leči ...",
+                "url": "https://www.stetoskop.info/homeopatija/kako-homeopatija-deluje",
+                "url_shown": "https://www.stetoskop.info› kako-h..."
+              }
+            ],
+            "paid": [],
+            "search_information": {
+              "no_results_for_original_query_found": false,
+              "query": "homeopatija",
+              "showing_results_for": "homeopatija",
+              "time_taken_displayed": null,
+              "total_results_count": null
+            },
+            "total_results_count": null
+          },
+          "url": "https://www.google.com/search?q=homeopatija&source=hp&ei=OrK3ZITEEY6Ixc8P3NemmA4&iflsig=AD69kcEAAAAAZLfASni8y8AdTBIjpShc1wPCNRMLoubj&ved=0ahUKEwiEyafav5qAAxUORPEDHdyrCeMQ4dUDCAk&uact=5&oq=pizza&gs_lp=Egdnd3Mtd2l6IgVwaXp6YTILEC4YgAQYxwEY0QMyBRAAGIAEMgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAuGIAEGMcBGK8BMgsQLhiABBjHARivATIFEC4YgARI1ApQgARYyQlwAXgAkAEAmAF1oAGuBKoBAzAuNbgBA8gBAPgBAagCAA&sclient=gws-wiz&hl=lt&start=40"
+        },
+        "errors": [],
+        "status_code": 12000,
+        "task_id": "7416079129247777794"
+      },
+      "headers": {},
+      "status_code": 200,
+      "task_id": "7416079129247777794",
+      "created_at": "2026-01-11 11:30:48",
+      "updated_at": "2026-01-11 11:31:38"
+    },
+    {
+      "content": {
+        "results": {
+          "last_visible_page": 10,
+          "page": 6,
+          "parse_status_code": 12000,
+          "results": {
+            "organic": [
+              {
+                "desc": "2014-11-25 — „Kad galėtume sėkmingai gydytis homeopatiniais vaistais, pavyzdžiui, žiemą daugeliui aktualius peršalimo bei virusinius susirgimus, pirmiausia ...",
+                "favicon_text": "Respublika",
+                "pos": 1,
+                "pos_overall": 1,
+                "title": "Homeopatija - iššūkis šiuolaikiniam gyvenimo būdui?",
+                "url": "https://www.respublika.lt/lt/naujienos/mokslas/sveikata/homeopatija__issukis_siuolaikiniam_gyvenimo_budui/",
+                "url_shown": "https://www.respublika.lt› naujienos › mokslas › sveikata"
+              },
+              {
+                "desc": "Homeopatiniai vaistai internetu. Homeopatinės tabletės, geriamieji lašai, tirpalai, purškalai ūminiams ligų simptomams sumažinti.",
+                "favicon_text": "www.manovaistine.lt",
+                "pos": 2,
+                "pos_overall": 2,
+                "title": "Homeopatiniai vaistai | Internetinėje “MANO vaistinėje”",
+                "url": "https://www.manovaistine.lt/visi-vaistai/homeopatiniai-vaistai",
+                "url_shown": "https://www.manovaistine.lt› visi-vaistai › homeopatinia..."
+              },
+              {
+                "desc": "Homeopatiju izstrādāja un ieviesa ārsts Zāmuels Hānemanis. Homeopātija balstās uz 4 principiem, kas paliek nemainīgi jau 200 gadus: 1) Līdzīgs jāārstē ar ...",
+                "favicon_text": "Zāļu valsts aģentūra (ZVA)",
+                "pos": 3,
+                "pos_overall": 3,
+                "title": "Homeopātijas (klasiskās) medicīniskā tehnoloģija - ZVA IS dati",
+                "url": "https://dati.zva.gov.lv/mtdb/31-papildinos-komplementrs-medicnas-medicniskie-pakalpojumi/homeopatijas-klasiskas-mediciniska-tehnologija",
+                "url_shown": "https://dati.zva.gov.lv› mtdb › home..."
+              },
+              {
+                "desc": "Gydytojai ir homeopatija. Farmacija. Mitai ir faktai apie homeopatiją. Homeopatinio gydymo ypatumai. Homeopatiniai vaistai. Homeopatiniai vaistai nuo peršalimo.",
+                "favicon_text": "mokslobaze.lt",
+                "pos": 4,
+                "pos_overall": 4,
+                "title": "Homeopatija",
+                "url": "https://www.mokslobaze.lt/homeopatija.html",
+                "url_shown": "https://www.mokslobaze.lt› homeopatija"
+              },
+              {
+                "desc": "2022-02-11 — Iš tikrųjų homeopatija – tai toks gydymo būdas, kai ligonių gydymui gydytojas homeopatas naudoja medikamentus labai mažomis dozėmis. Šį metodą ...",
+                "favicon_text": "vaistines.lt",
+                "pos": 5,
+                "pos_overall": 5,
+                "title": "Dar kartą apie homeopatiją - Vaistines LT",
+                "url": "https://www.vaistines.lt/dar-karta-apie-homeopatija/",
+                "url_shown": "https://www.vaistines.lt› dar-karta-apie-homeopatija"
+              },
+              {
+                "desc": "Homeopātija ir medicīnas nozare, kas balstās uz pārliecību, ka organisms var izārstēt pats sevi – slimības simptomi ir organisma mēģinājums sevi izārstēt.",
+                "favicon_text": "vca.lv",
+                "pos": 6,
+                "pos_overall": 6,
+                "title": "Homeopātija - VCA",
+                "url": "https://www.vca.lv/visi-pakalpojumi-vca/arstnieciba/homeopatija.html",
+                "url_shown": "https://www.vca.lv› ... › Ārstniecība"
+              },
+              {
+                "desc": "2017-11-27 — Kaip teigia ji, homeopatijos veikimas gali būti prilyginamas nebent placebo efektui, gydytojai neturėtų siūlyti preparatų, kurie iš tiesų ...",
+                "favicon_text": "Diena.lt",
+                "pos": 7,
+                "pos_overall": 7,
+                "title": "Gydytoja apie homeopatiją: tai patrauklu mažiau ...",
+                "url": "https://diena.lt/naujienos/sveikata/sveikata/gydytoja-apie-homeopatija-tai-patrauklu-maziau-apsiskaiciusiems-839367",
+                "url_shown": "https://diena.lt› Naujienos › Sveikata › Sveikata"
+              },
+              {
+                "desc": "2021-07-21 — Homeopatija daugeliui asocijuojasi su gydymu žolelėmis, tačiau homeopatijos nereikėtų painioti su fitoterapija.",
+                "favicon_text": "Pasveik.lt",
+                "pos": 8,
+                "pos_overall": 8,
+                "title": "Homeopatija – kada ji atsirado ir kuo ji paremta?",
+                "url": "https://www.pasveik.lt/lt/homeopatija-siandien/homeopatija-kada-ji-atsirado-ir-kuo-ji-paremta-2/66800/",
+                "url_shown": "https://www.pasveik.lt› Home › Homeopatija šiandien"
+              },
+              {
+                "desc": "2006-11-16 — Homeopatiniais vaistais ligos simptomai nėra slopinami, jie tarsi „išmetami“ iš organizmo, todėl gydymo pradžioje būna pablogėjimas, tačiau ...",
+                "favicon_text": "sekunde.lt",
+                "pos": 9,
+                "pos_overall": 9,
+                "title": "Homeopatija – ypatingas sveikatos susigrąžinimo būdas",
+                "url": "https://sekunde.lt/leidinys/sekunde/homeopatija-ypatingas-sveikatos-susigrazinimo-budas/",
+                "url_shown": "https://sekunde.lt› leidinys › sekunde › homeopatija-y..."
+              },
+              {
+                "desc": "2014-12-19 — Klasikinės homeopatijos pradininkas - vokiečių gydytojas Samuelis Hahnemannas(1755-1843). Homeopatijos sąvoka kilusi iš graikų kalbos ir ...",
+                "favicon_text": "jumsinfo.lt",
+                "pos": 10,
+                "pos_overall": 10,
+                "title": "Homeopatijos principai ir taikomas gydymas",
+                "url": "http://www.jumsinfo.lt/lt/straipsniai/homeopatijos_principai_ir_taikomas_gydymas/",
+                "url_shown": "http://www.jumsinfo.lt› straipsniai › homeopatijos_princ..."
+              }
+            ],
+            "paid": [],
+            "search_information": {
+              "no_results_for_original_query_found": false,
+              "query": "homeopatija",
+              "showing_results_for": "homeopatija",
+              "time_taken_displayed": null,
+              "total_results_count": null
+            },
+            "total_results_count": null
+          },
+          "url": "https://www.google.com/search?q=homeopatija&source=hp&ei=OrK3ZITEEY6Ixc8P3NemmA4&iflsig=AD69kcEAAAAAZLfASni8y8AdTBIjpShc1wPCNRMLoubj&ved=0ahUKEwiEyafav5qAAxUORPEDHdyrCeMQ4dUDCAk&uact=5&oq=pizza&gs_lp=Egdnd3Mtd2l6IgVwaXp6YTILEC4YgAQYxwEY0QMyBRAAGIAEMgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAuGIAEGMcBGK8BMgsQLhiABBjHARivATIFEC4YgARI1ApQgARYyQlwAXgAkAEAmAF1oAGuBKoBAzAuNbgBA8gBAPgBAagCAA&sclient=gws-wiz&hl=lt&start=50"
+        },
+        "errors": [],
+        "status_code": 12000,
+        "task_id": "7416079129247777794"
+      },
+      "headers": {},
+      "status_code": 200,
+      "task_id": "7416079129247777794",
+      "created_at": "2026-01-11 11:30:48",
+      "updated_at": "2026-01-11 11:31:42"
+    },
+    {
+      "content": {
+        "results": {
+          "last_visible_page": 11,
+          "page": 7,
+          "parse_status_code": 12000,
+          "results": {
+            "organic": [
+              {
+                "desc": "2014-12-19 — Klasikinės homeopatijos pradininkas - vokiečių gydytojas Samuelis Hahnemannas(1755-1843). Homeopatijos sąvoka kilusi iš graikų kalbos ir ...",
+                "favicon_text": "jumsinfo.lt",
+                "pos": 1,
+                "pos_overall": 1,
+                "title": "Homeopatijos principai ir taikomas gydymas",
+                "url": "http://www.jumsinfo.lt/lt/straipsniai/homeopatijos_principai_ir_taikomas_gydymas/",
+                "url_shown": "http://www.jumsinfo.lt› straipsniai › homeopatijos_princ..."
+              },
+              {
+                "desc": "Tikima, jog skiedžiant mažiau kartų, preparatas gydo kūno organus, skiedžiant daugiau kartų, preparatas gali gydyti ir psichines ligas. Gydymo principas ...",
+                "favicon_text": "Wikiwand",
+                "pos": 2,
+                "pos_overall": 2,
+                "title": "Homeopatija",
+                "url": "https://www.wikiwand.com/lt/articles/Homeopatija",
+                "url_shown": "https://www.wikiwand.com› articles › Homeopatija"
+              },
+              {
+                "desc": "66 Likes, TikTok video from Žalioji Ragana (@flamulina): “Explore the benefits of fungi in homeopathy and natural medicine.",
+                "favicon_text": "TikTok · Žalioji Ragana 🧿",
+                "pos": 3,
+                "pos_overall": 3,
+                "title": "Homeopathic Remedies with Fungi: Natural Healing Tips",
+                "url": "https://www.tiktok.com/@flamulina/video/7591488890888932630",
+                "url_shown": "Peržiūrų: daugiau nei 1,2 tūkst.  ·  prieš 6 dienas"
+              },
+              {
+                "desc": "Homeopatija reikšmė. Homeopatija - (homeo- + gr. pathos - kančia, liga; sk. home/opatija) - kurių ne kurių ligų gydymo būdas: vartojamos labai mažos dozės ...",
+                "favicon_text": "lietuviuzodynas.lt",
+                "pos": 4,
+                "pos_overall": 4,
+                "title": "Kas yra Homeopatija ? Žodžio Homeopatija reikšmė",
+                "url": "https://www.lietuviuzodynas.lt/terminai/Homeopatija",
+                "url_shown": "https://www.lietuviuzodynas.lt› terminai › Homeopatija"
+              },
+              {
+                "desc": "Derindami tradicinę bei natūralią mediciną, apjungdami patirtį ir mokslą – siekiame kuo geriausių gydymo rezultatų! Natūrali medicina. Homeopatija.",
+                "favicon_text": "Natura Munda",
+                "pos": 5,
+                "pos_overall": 5,
+                "title": "Natura Munda - Natūrali medicina. Homeopatija.",
+                "url": "https://naturamunda.lt/",
+                "url_shown": "https://naturamunda.lt"
+              },
+              {
+                "desc": "Helios Homeopathy is a well established homeopathic pharmacy who manufacture their own remedies and provide expert advice. Search with our remedy finder.",
+                "favicon_text": "Helios Homeopathy",
+                "pos": 6,
+                "pos_overall": 6,
+                "title": "Helios Homeopathy - A passion for healing",
+                "url": "https://www.helios.co.uk/",
+                "url_shown": "https://www.helios.co.uk"
+              },
+              {
+                "desc": "Holistinis požiūris į Jūsų sveikatą. Leiskite paaiškinti kaip holistinis gydymas gali būti Jums naudingas: Konsultacija persigus COVID-19. Nuovargis, ...",
+                "favicon_text": "naturaliterapija.lt",
+                "pos": 7,
+                "pos_overall": 7,
+                "title": "Pradžia | Mysite",
+                "url": "https://www.naturaliterapija.lt/",
+                "url_shown": "https://www.naturaliterapija.lt"
+              },
+              {
+                "desc": "Dugoročna dobrobit homeopatije za pacijenta je u tome što ne samo da ublažava prisutne simptome, već ponovno uspostavlja unutarnji red na najdubljim ...",
+                "favicon_text": "Homeopatski centar dr. Milić",
+                "pos": 8,
+                "pos_overall": 8,
+                "title": "Što homeopatija liječi?",
+                "url": "https://homeopatskicentar-drmilic.hr/sto-homeopatija-lijeci/",
+                "url_shown": "https://homeopatskicentar-drmilic.hr› ..."
+              },
+              {
+                "desc": "Pagrindinis arba vienas iš pagrindinių homeopatijos metodų – Folio metodas. Folio metodo esmė yra ta, kad su specialia aparatūra yra nustatomas kiekvienos ...",
+                "favicon_text": "homeopatai.lt",
+                "pos": 9,
+                "pos_overall": 9,
+                "title": "Kitaip!",
+                "url": "https://www.homeopatai.lt/homeopatija-kitaip/",
+                "url_shown": "https://www.homeopatai.lt› Straipsniai"
+              },
+              {
+                "desc": "2024-01-10 — U ovom blogu istražit ćemo povijest homeopatije, poteškoće povezane s istom te stalnu kontroverzu oko homeopatskih lijekova. Možemo li se ...",
+                "favicon_text": "Poliklinika Mazalin",
+                "pos": 10,
+                "pos_overall": 10,
+                "title": "Homeopatija - saznajte što je?",
+                "url": "https://poliklinika-mazalin.hr/blog/homeopatija/",
+                "url_shown": "https://poliklinika-mazalin.hr› blog"
+              }
+            ],
+            "paid": [],
+            "search_information": {
+              "no_results_for_original_query_found": false,
+              "query": "homeopatija",
+              "showing_results_for": "homeopatija",
+              "time_taken_displayed": null,
+              "total_results_count": null
+            },
+            "total_results_count": null
+          },
+          "url": "https://www.google.com/search?q=homeopatija&source=hp&ei=OrK3ZITEEY6Ixc8P3NemmA4&iflsig=AD69kcEAAAAAZLfASni8y8AdTBIjpShc1wPCNRMLoubj&ved=0ahUKEwiEyafav5qAAxUORPEDHdyrCeMQ4dUDCAk&uact=5&oq=pizza&gs_lp=Egdnd3Mtd2l6IgVwaXp6YTILEC4YgAQYxwEY0QMyBRAAGIAEMgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAuGIAEGMcBGK8BMgsQLhiABBjHARivATIFEC4YgARI1ApQgARYyQlwAXgAkAEAmAF1oAGuBKoBAzAuNbgBA8gBAPgBAagCAA&sclient=gws-wiz&hl=lt&start=60"
+        },
+        "errors": [],
+        "status_code": 12000,
+        "task_id": "7416079129247777794"
+      },
+      "headers": {},
+      "status_code": 200,
+      "task_id": "7416079129247777794",
+      "created_at": "2026-01-11 11:30:48",
+      "updated_at": "2026-01-11 11:31:43"
+    },
+    {
+      "content": {
+        "results": {
+          "last_visible_page": 12,
+          "page": 8,
+          "parse_status_code": 12000,
+          "results": {
+            "organic": [
+              {
+                "desc": "Homeopatija je edinstven in samostojen sistem zdravljenja. Beseda homeopatija je grškega izvora in se nanaša na načelo homeopatije, da se podobno zdravi s ...",
+                "favicon_text": "Homeopatija Peternelj",
+                "pos": 1,
+                "pos_overall": 1,
+                "title": "Kaj je homeopatija?",
+                "url": "https://www.homeopatija-peternelj.si/kaj-je-homeopatija/",
+                "url_shown": "https://www.homeopatija-peternelj.si› ..."
+              },
+              {
+                "desc": "2014-11-28 — Sloga / Fotolia nuotr. „Kad galėtume sėkmingai gydytis homeopatiniais vaistais, pavyzdžiui, žiemą daugeliui aktualius peršalimo bei virusinius ...",
+                "favicon_text": "15min.lt",
+                "pos": 2,
+                "pos_overall": 2,
+                "title": "Homeopatija: ką būtina žinoti apie šį gydymosi būdą",
+                "url": "https://www.15min.lt/gyvenimas/naujiena/sveikata/homeopatija-ka-butina-zinoti-apie-si-gydymosi-buda-1028-468933",
+                "url_shown": "https://www.15min.lt› Gyvenimas › Sveikata"
+              },
+              {
+                "desc": "Homeopatija - šiuolaikinė liaudies medicina, kuri nekenkia organizmui ir išgydo visas ligas, ar pseudomokslas, kuris nėra pranešnis negu gydymas placebo ar ...",
+                "favicon_text": "Manosveikata.lt",
+                "pos": 3,
+                "pos_overall": 3,
+                "title": "Ko nežinome apie homeopatiją?",
+                "url": "https://www.manosveikata.lt/medicina/gydymas-gydymo-centrai/ko-nezinome-apie-homeopatija/",
+                "url_shown": "https://www.manosveikata.lt› gydymas-gydymo-centrai"
+              },
+              {
+                "desc": "Su homeopatija viskas būtų gerai, jeigu ne viena maža smulkmena. Tai – absoliučiai neefektyvus gydymo būdas, savo neefektyvumu galintis varžytis gal tik su ...",
+                "favicon_text": "vaistai.lt",
+                "pos": 4,
+                "pos_overall": 4,
+                "title": "Kas yra homeopatija ir kodėl ji vis dar egzistuoja",
+                "url": "https://vaistai.lt/Kas-yra-homeopatija-ir-kodel-ji-vis-dar-egzistuoja-6623.html",
+                "url_shown": "https://vaistai.lt› ... › Sveikata › Straipsniai"
+              },
+              {
+                "desc": "2024-12-19 — Homeopatija – viena iš alternatyvios medicinos sričių, kurią jau daugiau nei du šimtmečius taiko milijonai žmonių visame pasaulyje.",
+                "favicon_text": "We love Lithuania",
+                "pos": 5,
+                "pos_overall": 5,
+                "title": "kas yra homeopatija?",
+                "url": "https://welovelithuania.com/lietuvoje/kas-yra-homeopatija/",
+                "url_shown": "https://welovelithuania.com› lietuvoje › kas-yra-home..."
+              },
+              {
+                "desc": "Homeopatai , visa svarbiausia įmonių informacija verslo portale vienoje vietoje: atsiliepimai, kontaktai, darbo laikas, kainos. Rezultatai (21 - 40)",
+                "favicon_text": "Medicina.lt",
+                "pos": 6,
+                "pos_overall": 6,
+                "title": "Homeopatai - Medicina.lt (21-40)",
+                "url": "https://www.medicina.lt/paieska/homeopatai/20-20",
+                "url_shown": "https://www.medicina.lt› paieska › homeopatai"
+              },
+              {
+                "desc": "Homeopātija – dabisks veids veselības uzlabošanai un uzturēšanai · Homeopātija ir droša un saudzīga alternatīvās medicīnas sistēma, kas lieto no dabas vielām ...",
+                "favicon_text": "Curantur.lv",
+                "pos": 7,
+                "pos_overall": 7,
+                "title": "Kas ir Homeopātija",
+                "url": "https://www.curantur.lv/homeopatija/kas-ir-homeopatija/",
+                "url_shown": "https://www.curantur.lv› kas-ir-ho..."
+              },
+              {
+                "desc": "2014-04-28 — Homeopatija – viena iš alternatyvios medicinos sričių, turinti daug gerbėjų visame pasaulyje, tačiau tuo pačiu ir sulaukianti daug kritikos.",
+                "favicon_text": "Mokslo ir technologijų pasaulis",
+                "pos": 8,
+                "pos_overall": 8,
+                "title": "Visa tiesa apie homeopatiją (Video)",
+                "url": "https://m.technologijos.lt/cat/400/article/S-40049",
+                "url_shown": "https://m.technologijos.lt› cat › article"
+              },
+              {
+                "desc": "Prehranska dopolnila in medicinski pripomočki - največja mreža specializiranih prodajaln. Strokovno svetovanje in enostavno naročilo preko spleta.",
+                "favicon_text": "Sanolabor",
+                "pos": 9,
+                "pos_overall": 9,
+                "title": "Sanolabor",
+                "url": "https://www.sanolabor.si/",
+                "url_shown": "https://www.sanolabor.si"
+              },
+              {
+                "desc": "Reikalingas Homeopatas? Čia lengvai rasite specialistą privačioje klinikoje. Patogi paieška. Lengva registracija. Pacientų atsiliepimai. Privati klinika.",
+                "favicon_text": "ManoDaktaras",
+                "pos": 10,
+                "pos_overall": 10,
+                "title": "Homeopatas | Registracija internetu",
+                "url": "https://www.manodaktaras.lt/paieska/homeopatas",
+                "url_shown": "https://www.manodaktaras.lt› paieska › homeopatas"
+              }
+            ],
+            "paid": [],
+            "search_information": {
+              "no_results_for_original_query_found": false,
+              "query": "homeopatija",
+              "showing_results_for": "homeopatija",
+              "time_taken_displayed": null,
+              "total_results_count": null
+            },
+            "total_results_count": null
+          },
+          "url": "https://www.google.com/search?q=homeopatija&source=hp&ei=OrK3ZITEEY6Ixc8P3NemmA4&iflsig=AD69kcEAAAAAZLfASni8y8AdTBIjpShc1wPCNRMLoubj&ved=0ahUKEwiEyafav5qAAxUORPEDHdyrCeMQ4dUDCAk&uact=5&oq=pizza&gs_lp=Egdnd3Mtd2l6IgVwaXp6YTILEC4YgAQYxwEY0QMyBRAAGIAEMgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAuGIAEGMcBGK8BMgsQLhiABBjHARivATIFEC4YgARI1ApQgARYyQlwAXgAkAEAmAF1oAGuBKoBAzAuNbgBA8gBAPgBAagCAA&sclient=gws-wiz&hl=lt&start=70"
+        },
+        "errors": [],
+        "status_code": 12000,
+        "task_id": "7416079129247777794"
+      },
+      "headers": {},
+      "status_code": 200,
+      "task_id": "7416079129247777794",
+      "created_at": "2026-01-11 11:30:48",
+      "updated_at": "2026-01-11 11:31:45"
+    },
+    {
+      "content": {
+        "results": {
+          "last_visible_page": 13,
+          "page": 9,
+          "parse_status_code": 12000,
+          "results": {
+            "organic": [
+              {
+                "desc": "blictv #blictv2023 #kanal117 Emisija: Moj dan Blic dan Termin emitovanja: Radnim danima od 14:30 Voditelji: Sofija Spasojević i Aleksandar ...",
+                "favicon_text": "YouTube · Blic TV",
+                "pos": 1,
+                "pos_overall": 1,
+                "title": "Slično se sličnim leči! Šta je to HOMEOPATIJA? | MOJ DAN ...",
+                "url": "https://www.youtube.com/watch?v=dBulTs1MxH8",
+                "url_shown": "Peržiūrų: daugiau nei 440  ·  prieš 1 metus"
+              },
+              {
+                "desc": "2014-11-26 — „Kad galėtume sėkmingai gydytis homeopatiniais vaistais, pavyzdžiui, žiemą daugeliui aktualius peršalimo bei virusinius susirgimus, pirmiausia ...",
+                "favicon_text": "Kauno diena",
+                "pos": 2,
+                "pos_overall": 2,
+                "title": "Homeopatija – iššūkis šiuolaikiniam gyvenimo būdui?",
+                "url": "https://kauno.diena.lt/naujienos/sveikata/sveikata/homeopatija-issukis-siuolaikiniam-gyvenimo-budui-661529",
+                "url_shown": "https://kauno.diena.lt› Naujienos › Sveikata › Sveikata"
+              },
+              {
+                "desc": "Jeigu norite gauti išsamią konsultaciją sveikatos klausimais, kreipkitės į mūsų konsultantus homeopatus pagal savo gyvenamąją vietą visoje Lietuvoje.",
+                "favicon_text": "Šiuolaikinė homeopatija -",
+                "pos": 3,
+                "pos_overall": 3,
+                "title": "Gydytojai homeopatai",
+                "url": "https://siuolaikinehomeopatija.lt/homeopatai/",
+                "url_shown": "https://siuolaikinehomeopatija.lt› homeopatai"
+              },
+              {
+                "desc": "BENU Vaistinės yra patikimos, saugios ir profesionalios. BENU Vaistinėse siekiama savo klientams pasiūlyti aplinką, kurioje jausitės saugiai ir užtikrintai.",
+                "favicon_text": "BENU.lt",
+                "pos": 4,
+                "pos_overall": 4,
+                "title": "BENU vaistinė internete – Nes jūs ypatingi!",
+                "url": "https://www.benu.lt/?srsltid=AfmBOopANqzYPeHFn8sNOgYOkE8h3FxGeWZAI-AV6Mq0lQ6taorhGwK9",
+                "url_shown": "https://www.benu.lt"
+              },
+              {
+                "desc": "Aš jau seniai nebebijau nutolti nuo homeopatijos. Čia kaip su potencijavimu – kadaise homeopatai manė, kad egzistuoja praskiedimo laipsnis, nuo kurio preparatas ...",
+                "favicon_text": "Dabartinė Homeopatija",
+                "pos": 5,
+                "pos_overall": 5,
+                "title": "Kas yra ir kas nėra Homeopatija?",
+                "url": "https://vegatestas.lt/kas-yra-ir-kas-nera-homeopatija/",
+                "url_shown": "https://vegatestas.lt› kas-yra-ir-kas-nera-homeopatija"
+              },
+              {
+                "desc": "Pregledajte detaljan cenovnik MediGroup usluga. Saznajte cene laboratorijskih analiza, pregleda i ostalih medicinskih usluga na jednom mestu.",
+                "favicon_text": "MediGroup",
+                "pos": 6,
+                "pos_overall": 6,
+                "title": "MediGroup cenovnik – Cene medicinskih usluga",
+                "url": "https://www.medigroup.rs/cenovnik/",
+                "url_shown": "https://www.medigroup.rs› cenovnik"
+              },
+              {
+                "desc": "2021-03-15 — Šiandien daugybė žmonių dairosi į tai, kas natūraliau. Homeopatija – vienas iš galimų būdų gydyti nesunkias ligas, tačiau į jį nereikėtų ...",
+                "favicon_text": "Pasveik.lt",
+                "pos": 7,
+                "pos_overall": 7,
+                "title": "8 įdomybės apie homeopatiją",
+                "url": "https://www.pasveik.lt/lt/rekomenduojamos-naujienos/8-idomybes-apie-homeopatija/66097/",
+                "url_shown": "https://www.pasveik.lt› Home › Homeopatija šiandien"
+              },
+              {
+                "desc": "Spletna lekarna Lekarnar.com. Zdravila brez recepta, prehranska dopolnila, kozmetika in ostali izdelki, ki so na voljo v lekarnah...",
+                "favicon_text": "Lekarnar.com - Spletna lekarna",
+                "pos": 8,
+                "pos_overall": 8,
+                "title": "Lekarnar.com: Spletna lekarna",
+                "url": "https://www.lekarnar.com/",
+                "url_shown": "https://www.lekarnar.com"
+              },
+              {
+                "desc": "Online ljekarna sa proizvodima iz kategorija kozmetike, dodaci prehrani, anti-age, kreme za bore, medicinski proizvodi.",
+                "favicon_text": "Online ljekarna Coner",
+                "pos": 9,
+                "pos_overall": 9,
+                "title": "Online ljekarna Coner",
+                "url": "https://mojaljekarna.hr/",
+                "url_shown": "https://mojaljekarna.hr"
+              },
+              {
+                "desc": "293 likes, 3 comments - beogradanas on January 5, 2026: \"Zagrevanje stopala pomaže da se krvni sudovi prošire, što poboljšava cirkulaciju u ...",
+                "favicon_text": "Instagram · beogradanas",
+                "pos": 10,
+                "pos_overall": 10,
+                "title": "Zagrevanje stopala pomaže da se krvni sudovi prošire, ...",
+                "url": "https://www.instagram.com/reel/DTKV4GiDF26/",
+                "url_shown": "Mygtuko „Patinka“ paspaudimų: daugiau nei 290  ·  prieš 5 dienas"
+              }
+            ],
+            "paid": [],
+            "search_information": {
+              "no_results_for_original_query_found": false,
+              "query": "homeopatija",
+              "showing_results_for": "homeopatija",
+              "time_taken_displayed": null,
+              "total_results_count": null
+            },
+            "total_results_count": null
+          },
+          "url": "https://www.google.com/search?q=homeopatija&source=hp&ei=OrK3ZITEEY6Ixc8P3NemmA4&iflsig=AD69kcEAAAAAZLfASni8y8AdTBIjpShc1wPCNRMLoubj&ved=0ahUKEwiEyafav5qAAxUORPEDHdyrCeMQ4dUDCAk&uact=5&oq=pizza&gs_lp=Egdnd3Mtd2l6IgVwaXp6YTILEC4YgAQYxwEY0QMyBRAAGIAEMgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAuGIAEGMcBGK8BMgsQLhiABBjHARivATIFEC4YgARI1ApQgARYyQlwAXgAkAEAmAF1oAGuBKoBAzAuNbgBA8gBAPgBAagCAA&sclient=gws-wiz&hl=lt&start=80"
+        },
+        "errors": [],
+        "status_code": 12000,
+        "task_id": "7416079129247777794"
+      },
+      "headers": {},
+      "status_code": 200,
+      "task_id": "7416079129247777794",
+      "created_at": "2026-01-11 11:30:48",
+      "updated_at": "2026-01-11 11:31:47"
+    },
+    {
+      "content": {
+        "results": {
+          "last_visible_page": 14,
+          "page": 10,
+          "parse_status_code": 12000,
+          "results": {
+            "organic": [
+              {
+                "desc": "Održavanje homeostaze - stalnost parametra fiziološkog funkcionisanja organizma. Održavanje telesne temperature, krvnog pritiska i sl. metode Homeopatije.",
+                "favicon_text": "Stetoskop.info",
+                "pos": 1,
+                "pos_overall": 1,
+                "title": "Šta je homeopatija, vrste, lekovi",
+                "url": "https://www.stetoskop.info/homeopatija/homeopatija",
+                "url_shown": "https://www.stetoskop.info› homeo..."
+              },
+              {
+                "desc": "Homeopatinė vaistinė. Vaistų gamyba Vilniuje, Kaune. Lietuviškos vaistažolės, natūralūs vitaminai, kosmetika. Homeopatiniai vaistai internetu.",
+                "favicon_text": "Parapharm homeopatijos vaistinė",
+                "pos": 2,
+                "pos_overall": 2,
+                "title": "Homeopatinė vaistinė. Vaistų gamyba Parapharm ...",
+                "url": "https://parapharm.lt/",
+                "url_shown": "https://parapharm.lt"
+              },
+              {
+                "desc": "Tradiciniai vaistai dažnai pašalina tik simptomus, negydydami pačios ligos. Būtent homeopatija gali sužadinti organizmo vidines galias, kurios privers organizmą ...",
+                "favicon_text": "homeopatai.lt",
+                "pos": 3,
+                "pos_overall": 3,
+                "title": "Homeopatai.lt",
+                "url": "https://www.homeopatai.lt/",
+                "url_shown": "https://www.homeopatai.lt"
+              },
+              {
+                "desc": "„Kad galėtume sėkmingai gydytis homeopatiniais vaistais, pavyzdžiui, žiemą daugeliui aktualius peršalimo bei virusinius susirgimus, pirmiausia turime žinoti ...",
+                "favicon_text": "vaistai.lt",
+                "pos": 4,
+                "pos_overall": 4,
+                "title": "Homeopatija: ką būtina žinoti apie šį gydymosi būdą",
+                "url": "https://vaistai.lt/Homeopatija-ka-butina-zinoti-apie-si-gydymosi-buda-4530.html",
+                "url_shown": "https://vaistai.lt› ... › Padėk sau › Straipsniai"
+              },
+              {
+                "desc": "Atgijos vaistinė, IĮ. A. Mickevičiaus g. 46-1 (Centras), Kaunas · Dirbame iki 19.00 · (0 37) 206992 ; Haruspica, šeimos ir netradicinės medicinos klinika, UAB. Č.",
+                "favicon_text": "Medicina.lt",
+                "pos": 5,
+                "pos_overall": 5,
+                "title": "Homeopatas",
+                "url": "https://www.medicina.lt/paieska/homeopatas",
+                "url_shown": "https://www.medicina.lt› paieska › homeopatas"
+              },
+              {
+                "desc": "2025-07-12 — Britanske stavnice so do zadnjega računale na premierovo zmago. V Sloveniji pa je od začetka jasno, da so Golobove možnosti pičle.",
+                "favicon_text": "Delo",
+                "pos": 6,
+                "pos_overall": 6,
+                "title": "Slepec vodi slepe",
+                "url": "https://www.delo.si/mnenja/kolumne/slepec-vodi-slepe",
+                "url_shown": "https://www.delo.si› ... › Kolumne"
+              },
+              {
+                "desc": "Popusti i do 90% na top proizvode. Besplatna dostava.",
+                "favicon_text": "Tvoja Ljekarna",
+                "pos": 7,
+                "pos_overall": 7,
+                "title": "Tvoja Ljekarna - Najjeftinija i najveća internet ljekarna u ...",
+                "url": "https://www.tvojaljekarna.com/",
+                "url_shown": "https://www.tvojaljekarna.com"
+              },
+              {
+                "desc": "prieš 6 dienas — Ugljikohidrati i proteini često se promatraju odvojeno: jedni kao “gorivo”, drugi kao “gradivni materijal”.",
+                "favicon_text": "Proteka",
+                "pos": 8,
+                "pos_overall": 8,
+                "title": "Kako spojiti ugljikohidrate i proteine?",
+                "url": "https://www.proteka.hr/blog/kako-spojiti-ugljikohidrate-i-proteine-2849",
+                "url_shown": "https://www.proteka.hr› blog › kak..."
+              },
+              {
+                "desc": "όμοιος, hómoios (sličan) + πάθος, páthos (patnja,bol). Sam naziv najbolje objašnjava homeopatsku filozofiju: Liječenje onim što prouzrokuje patnju sličnu onoj ...",
+                "favicon_text": "Wikipedia",
+                "pos": 9,
+                "pos_overall": 9,
+                "title": "Homeopatija",
+                "url": "https://bs.wikipedia.org/wiki/Homeopatija",
+                "url_shown": "https://bs.wikipedia.org› wiki › Ho..."
+              },
+              {
+                "desc": "Dijagnostika. U Euromedik ustanovama možete obaviti sve vrste dijagnostičkih pregleda pomoću savremenih Simensovih aparata: ultrazvučni pregled- neinvazivna ...",
+                "favicon_text": "Euromedik",
+                "pos": 10,
+                "pos_overall": 10,
+                "title": "Usluge",
+                "url": "https://euromedic.rs/usluge/",
+                "url_shown": "https://euromedic.rs› usluge"
+              }
+            ],
+            "paid": [],
+            "search_information": {
+              "no_results_for_original_query_found": false,
+              "query": "homeopatija",
+              "showing_results_for": "homeopatija",
+              "time_taken_displayed": null,
+              "total_results_count": null
+            },
+            "total_results_count": null
+          },
+          "url": "https://www.google.com/search?q=homeopatija&source=hp&ei=OrK3ZITEEY6Ixc8P3NemmA4&iflsig=AD69kcEAAAAAZLfASni8y8AdTBIjpShc1wPCNRMLoubj&ved=0ahUKEwiEyafav5qAAxUORPEDHdyrCeMQ4dUDCAk&uact=5&oq=pizza&gs_lp=Egdnd3Mtd2l6IgVwaXp6YTILEC4YgAQYxwEY0QMyBRAAGIAEMgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAuGIAEGMcBGK8BMgsQLhiABBjHARivATIFEC4YgARI1ApQgARYyQlwAXgAkAEAmAF1oAGuBKoBAzAuNbgBA8gBAPgBAagCAA&sclient=gws-wiz&hl=lt&start=90"
+        },
+        "errors": [],
+        "status_code": 12000,
+        "task_id": "7416079129247777794"
+      },
+      "headers": {},
+      "status_code": 200,
+      "task_id": "7416079129247777794",
+      "created_at": "2026-01-11 11:30:48",
+      "updated_at": "2026-01-11 11:31:49"
     }
   ]
 }
