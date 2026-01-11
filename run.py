@@ -1,6 +1,6 @@
-import click
+import google_search
 import scraper_links
-import scraper_base
+import click
 
 
 @click.command()
@@ -9,7 +9,10 @@ import scraper_base
 @click.option("--page_count", default=10, help="The number of pages to scrape.")
 def main(search_by, page_from, page_count):
     """Main function to run the scraper."""
-    scraper_base.google_search_scrape(
+    google_search.collect_data(
+        search_by=search_by, page_from=page_from, page_count=page_count
+    )
+    scraper_links.scrap_links(
         search_by=search_by, page_from=page_from, page_count=page_count
     )
 

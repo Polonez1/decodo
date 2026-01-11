@@ -11,7 +11,7 @@ token = login.token
 # patrykkonst123A#
 
 
-def google_search_scrape(search_by: str, page_from: int = 1, page_count: int = 10):
+def collect_data(search_by: str, page_from: int = 1, page_count: int = 10):
     url = "https://scraper-api.decodo.com/v2/scrape"
 
     payload = {
@@ -30,13 +30,14 @@ def google_search_scrape(search_by: str, page_from: int = 1, page_count: int = 1
         "authorization": f"Basic {token}",
     }
 
-    print(f"Scraping Google for '{search_by}'")
+    print(f"Scraping Google for '{search_by}'", flush=True)
     response = requests.post(url, json=payload, headers=headers)
     data = response.json()
 
+    #
     print("Scraping completed. Saving response to file.")
     with open(
-        f"./output/response_{search_by}_{page_from}_{page_from}.json",
+        f"./output/google_output/response_{search_by}_{page_from}_{page_count}.json",
         "w",
         encoding="utf-8",
     ) as f:
@@ -46,4 +47,4 @@ def google_search_scrape(search_by: str, page_from: int = 1, page_count: int = 1
 
 
 if __name__ == "__main__":
-    google_search_scrape("test", 1, 1)
+    collect_data("test", 1, 1)
