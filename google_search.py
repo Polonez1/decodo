@@ -6,7 +6,7 @@ import login
 token = login.token
 
 
-def collect_data(search_by: str, page_from: int = 1, page_count: int = 10):
+def collect_data(search_by: str, page_from: int = 1, page_count: int = 1):
     url = "https://scraper-api.decodo.com/v2/scrape"
 
     payload = {
