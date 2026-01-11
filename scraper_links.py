@@ -4,7 +4,7 @@ import pandas as pd
 import login
 
 
-def scrap_links(search_by: str, page_from: int = 1, page_count: int = 10):
+def scrap_links(search_by: str, page_from: int = 1, page_count: int = 1):
     print(f"Scraping links for '{search_by}'", flush=True)
     with open(
         f"./output/google_output/response_{search_by}_{page_from}_{page_count}.json",
