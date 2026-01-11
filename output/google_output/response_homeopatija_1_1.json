@@ -1,0 +1,316 @@
+{
+  "results": [
+    {
+      "content": {
+        "results": {
+          "last_visible_page": 10,
+          "page": 1,
+          "parse_status_code": 12000,
+          "results": {
+            "ai_overviews": [
+              {
+                "answer_text": [
+                  {
+                    "pos": 1,
+                    "text": [
+                      "Homeopatija (homeopathy) is a pseudoscientific alternative medicine system based on the \"like cures like\" principle (a substance causing symptoms in healthy people can treat similar symptoms in the sick) and extreme dilution, often to the point where no original molecules remain, with practitioners believing dilution increases potency through shaking (succussion). Developed by Samuel Hahnemann, it uses highly diluted remedies for various ailments but lacks scientific evidence for effectiveness beyond placebo."
+                    ]
+                  },
+                  {
+                    "pos": 2,
+                    "text": [
+                      "Core Principles"
+                    ]
+                  },
+                  {
+                    "pos": 3,
+                    "text": [
+                      "How it Works (According to Homeopaths)"
+                    ]
+                  },
+                  {
+                    "pos": 4,
+                    "text": [
+                      "Scientific View"
+                    ]
+                  }
+                ],
+                "bullet_list": [
+                  {
+                    "list_title": "Core Principles",
+                    "points": [
+                      "Like Cures Like (Law of Similars): A substance that causes symptoms in a healthy person is used in diluted form to treat those same symptoms in a sick person.",
+                      "Law of Minimum Dose (Dilution): Remedies are repeatedly diluted and succussed (shaken) to the point where they are often just water or sugar pills, with proponents claiming this enhances their \"energetic\" properties."
+                    ],
+                    "pos": 1
+                  },
+                  {
+                    "list_title": "Scientific View",
+                    "points": [
+                      "Major health organizations and scientific bodies consider homeopathy a pseudoscience.",
+                      "Clinical trials show it's no more effective than a placebo.",
+                      "The extreme dilutions violate fundamental principles of chemistry and pharmacology, making it highly improbable for any active ingredient to be present."
+                    ],
+                    "pos": 2
+                  }
+                ],
+                "pos_overall": 1,
+                "source_panel": {
+                  "items": [
+                    {
+                      "description": "Homeopathy or homoeopathy is a pseudoscientific system of alternative medicine. It was conceived in 1796 by the German physician S...",
+                      "pos": 1,
+                      "source": "Wikipedia",
+                      "title": "Homeopathy - Wikipedia",
+                      "url": "https://en.wikipedia.org/wiki/Homeopathy#:~:text=Homeopathy%20or%20homoeopathy%20is%20a,original%20substance%20after%20its%20removal."
+                    },
+                    {
+                      "description": "Apr 14, 2021 — What Is Homeopathy? * “Like cures like”—the notion that a disease can be cured by a substance that produces similar sy...",
+                      "pos": 2,
+                      "source": "National Center for Complementary and Integrative Health (.gov)",
+                      "title": "Homeopathy | NCCIH - NIH",
+                      "url": "https://www.nccih.nih.gov/health/homeopathy"
+                    },
+                    {
+                      "description": "May 24, 2016 — The remedies are crystal sugar at their core when they're administered in pill form, also known as \"globuli.\" In a flu...",
+                      "pos": 3,
+                      "source": "DW",
+                      "title": "What is homeopathy? – DW – 05/25/2016",
+                      "url": "https://www.dw.com/en/homeopathy-medical-therapy-or-superstition/a-19282930#:~:text=The%20remedies%20are%20crystal%20sugar%20at%20their,and%20alcohol.%20Natural%20contaminations%20can%20still%20occur."
+                    }
+                  ]
+                }
+              }
+            ],
+            "knowledge": {
+              "factoids": [
+                {
+                  "content": "Samuel Hahnemann",
+                  "links": [
+                    {
+                      "href": "/search?lr=lang_en&sca_esv=78d783ca4d51d4ce&gl=us&hl=en&q=Samuel+Hahnemann&stick=H4sIAAAAAAAAAONgVuLUz9U3MLQ0yzNdxCoQnJhbmpqj4JGYkZeam5iXBwA3E_d6IAAAAA&sa=X&ved=2ahUKEwjx-_aY14OSAxXpkZUCHXUINAUQmxN6BAgSEAI",
+                      "title": "Samuel Hahnemann"
+                    }
+                  ],
+                  "title": "Original proponents"
+                },
+                {
+                  "content": "Alternative medicine",
+                  "title": "Related fields"
+                },
+                {
+                  "content": "Humorism, heroic medicine",
+                  "title": "See also"
+                },
+                {
+                  "content": "James Tyler Kent; Royal S. Copeland; George Vithoulkas",
+                  "links": [
+                    {
+                      "href": "/search?lr=lang_en&sca_esv=78d783ca4d51d4ce&gl=us&hl=en&q=James+Tyler+Kent&stick=H4sIAAAAAAAAAONgVuLUz9U3MLQ0Ty5ZxCrglZibWqwQUpmTWqTgnZpXAgClBrKCIAAAAA&sa=X&ved=2ahUKEwjx-_aY14OSAxXpkZUCHXUINAUQmxN6BAgeEAI",
+                      "title": "James Tyler Kent"
+                    },
+                    {
+                      "href": "/search?lr=lang_en&sca_esv=78d783ca4d51d4ce&gl=us&hl=en&q=Royal+S.+Copeland&stick=H4sIAAAAAAAAAONgVuLUz9U3MEtLNi1bxCoYlF-ZmKMQrKfgnF-QmpOYlwIAIcRuBiEAAAA&sa=X&ved=2ahUKEwjx-_aY14OSAxXpkZUCHXUINAUQmxN6BAgeEAM",
+                      "title": "Royal S. Copeland"
+                    },
+                    {
+                      "href": "/search?lr=lang_en&sca_esv=78d783ca4d51d4ce&gl=us&hl=en&q=George+Vithoulkas&stick=H4sIAAAAAAAAAONgVuLUz9U3sCg3zTVdxCronppflJ6qEJZZkpFfmpOdWAwAFrX1BiEAAAA&sa=X&ved=2ahUKEwjx-_aY14OSAxXpkZUCHXUINAUQmxN6BAgeEAQ",
+                      "title": "George Vithoulkas"
+                    }
+                  ],
+                  "title": "Subsequent proponents"
+                }
+              ],
+              "is_hotel": false,
+              "subtitle": "Medical speciality",
+              "title": "Homeopathy"
+            },
+            "organic": [
+              {
+                "desc": "Homeopathy or homoeopathy is a pseudoscientific system of alternative medicine. It was conceived in 1796 by the German physician Samuel Hahnemann.Read more",
+                "favicon_text": "Wikipedia",
+                "pos": 1,
+                "pos_overall": 2,
+                "title": "Homeopathy",
+                "url": "https://en.wikipedia.org/wiki/Homeopathy",
+                "url_shown": "https://en.wikipedia.org› wiki › Homeopathy"
+              },
+              {
+                "desc": "Homeopathy, also known as homeopathic medicine, is a medical system that was developed in Germany more than 200 years ago.Read more",
+                "favicon_text": "National Center for Complementary and Integrative Health (.gov)",
+                "pos": 2,
+                "pos_overall": 4,
+                "title": "Homeopathy | NCCIH - NIH",
+                "url": "https://www.nccih.nih.gov/health/homeopathy",
+                "url_shown": "https://www.nccih.nih.gov› Health Information"
+              },
+              {
+                "desc": "Many translated example sentences containing \"Homeopatija\" – English-Lithuanian dictionary and search engine for English translations.",
+                "favicon_text": "Linguee",
+                "pos": 3,
+                "pos_overall": 5,
+                "title": "Homeopatija - English translation",
+                "url": "https://www.linguee.com/lithuanian-english/translation/homeopatija.html",
+                "url_shown": "https://www.linguee.com› lithuanian-english › homeop..."
+              },
+              {
+                "desc": "English translation of homeopatija is homeopathy · Translate homeopatija into other languages · Popular Language Pairs · Our Translation Services.Read more",
+                "favicon_text": "Translate.com",
+                "pos": 4,
+                "pos_overall": 6,
+                "title": "Homeopatija in English | Croatian to English Dictionary",
+                "url": "https://www.translate.com/dictionary/croatian-english/homeopatija-14060352",
+                "url_shown": "https://www.translate.com› ... › Croatian-English › H"
+              },
+              {
+                "desc": "Homeopathy is a system of medicine developed by a German physician, Dr. Samuel Hahneman in 1796. Homeopathy is based on the law of similarity: “Like cures like ...Read more",
+                "favicon_text": "Homeopatija - Crna Gora",
+                "pos": 5,
+                "pos_overall": 7,
+                "title": "about homeopathy",
+                "url": "https://www.homeopatija.rs/en/homeopathy/",
+                "url_shown": "https://www.homeopatija.rs› homeopathy"
+              },
+              {
+                "desc": "Translation of \"homeopatija\" into English. homeopathy, homeopathy are the top translations of \"homeopatija\" into English. homeopatija.Read more",
+                "favicon_text": "Glosbe",
+                "pos": 6,
+                "pos_overall": 8,
+                "title": "homeopatija in English - Serbo Croatian-English Dictionary",
+                "url": "https://glosbe.com/sh/en/homeopatija",
+                "url_shown": "https://glosbe.com› homeopatija"
+              },
+              {
+                "desc": "Serbo-Croatian. Pronunciation. IPA: /xomeopǎtija/. Noun. homeopàtija f (Cyrillic spelling хомеопа̀тија). homeopathy. References. “homeopatija”, in Hrvatski ...Read more",
+                "favicon_text": "Wiktionary, the free dictionary",
+                "pos": 7,
+                "pos_overall": 9,
+                "title": "homeopatija",
+                "url": "https://en.wiktionary.org/wiki/homeopatija",
+                "url_shown": "https://en.wiktionary.org› wiki › homeopatija"
+              },
+              {
+                "desc": "Look up the Slovenian to English translation of HOMEOPATIJA in the PONS online dictionary. Includes free vocabulary trainer, verb tables and pronunciation ...",
+                "favicon_text": "PONS dictionary | Definitions, Translations and Vocabulary",
+                "pos": 8,
+                "pos_overall": 10,
+                "title": "HOMEOPATIJA - Translation from Slovenian into English",
+                "url": "https://en.pons.com/translate/slovenian-english/homeopatija",
+                "url_shown": "https://en.pons.com› translate › h..."
+              },
+              {
+                "desc": "We hope this will help you in learning languages. Here is homeopatija meaning in English: homeopathy. Homeopathy in all languages.Read more",
+                "favicon_text": "In Different Languages",
+                "pos": 9,
+                "pos_overall": 11,
+                "title": "Homeopatija in English",
+                "url": "https://www.indifferentlanguages.com/translate/kinyarwanda-english/4lvmoo",
+                "url_shown": "https://www.indifferentlanguages.com› translate › kiny..."
+              },
+              {
+                "desc": "Homeopatija je efikasna i naučno zasnovana metoda lečenja koja podstiče (stimuliše) prirodne sposobnosti čovekovog organizma na putu izlečenja.",
+                "favicon_text": "ordinacijaavicenna.com",
+                "pos": 10,
+                "pos_overall": 12,
+                "title": "Homeopathic examination Homeopatija - AVICENNA",
+                "url": "https://ordinacijaavicenna.com/homeopathic-examination/?lang=en",
+                "url_shown": "https://ordinacijaavicenna.com› homeopathic-examinat..."
+              }
+            ],
+            "paid": [],
+            "related_questions": {
+              "items": [
+                {
+                  "answer": "In a number of countries, the use of homeopathy is particularly well-established. For example, India (78%), Colombia (71%), and France (59%) have very high use rates. user rate, including Germany, Italy, Bulgaria, and Romania.",
+                  "pos": 1,
+                  "question": "Which country uses homeopathy the most?",
+                  "source": {
+                    "title": "NEARLY 6 OUT OF 10 PEOPLE SAY THEY HAVE USED HOMEOPATHY ...",
+                    "url": "https://tolunacorporate.com/wp-content/uploads/2025/05/CP-BOIRON_Toluna-Harris-Interactive_Usage_Homeo_110724_ENG-003.pdf",
+                    "url_shown": "Toluna"
+                  }
+                },
+                {
+                  "answer": "While homeopathy can cure many diseases, causing hair to regrow is something that many people believe homeopathy cannot do. However, this belief is not based on facts. Homeopathy can help in hair regrowth to a considerable extent.Dec 29, 2024",
+                  "pos": 2,
+                  "question": "Can homeopathy regrow lost hair?",
+                  "source": {
+                    "title": "Role Of Homeopathy In Hair Regrowth - By Dr. Ashwini Indulkar | Lybrate",
+                    "url": "https://www.lybrate.com/topic/role-of-homeopathy-in-hair-regrowth/dd6a0fef63cbef6af5b7428c3d2f5873#:~:text=While%20homeopathy%20can%20cure%20many,regrowth%20to%20a%20considerable%20extent.",
+                    "url_shown": "Lybrate"
+                  }
+                },
+                {
+                  "answer": "Globuli, the German term for tiny white balls comprised of sugar, are the main vehicle for administering homeopathy, a more than 200-year-old practice originally developed by a German physician named Samuel Hahnemann.Mar 16, 2020",
+                  "pos": 3,
+                  "question": "What are white balls made of in homeopathy?",
+                  "source": {
+                    "title": "In Germany, a Heated Debate Over Homeopathy - Undark Magazine",
+                    "url": "https://undark.org/2020/03/16/homeopathy-globuli-germany/#:~:text=Globuli%2C%20the%20German%20term%20for,German%20physician%20named%20Samuel%20Hahnemann.",
+                    "url_shown": "Undark Magazine"
+                  }
+                },
+                {
+                  "answer": "A homoeopath as a Primary Healthcare Practitioner Thus a homeopath is firstly a trained diagnostician, and with successful registration with the Council, obtains the title Doctor.",
+                  "pos": 4,
+                  "question": "Is a homeopathic doctor a doctor?",
+                  "source": {
+                    "title": "The Homoeopathic Doctor in South Africa - Natural Health Centre",
+                    "url": "https://natural-med.co.za/the-homeopathic-doctor/#:~:text=A%20homoeopath%20as%20a%20Primary%20Healthcare%20Practitioner&text=Thus%20a%20homeopath%20is%20firstly,Council%2C%20obtains%20the%20title%20Doctor.",
+                    "url_shown": "Natural Health Centre"
+                  }
+                }
+              ],
+              "pos_overall": 3
+            },
+            "related_searches": [
+              {
+                "pos_overall": 13,
+                "related_searches": [
+                  "Dangers of homeopathic medicine",
+                  "Homeopathy examples",
+                  "Homeopathic doctor",
+                  "Homeopathic medicine near me",
+                  "Homeopathic medicine list With disease PDF",
+                  "Homeopathic remedies",
+                  "Homeopathy vs Ayurveda",
+                  "Homeopathic medicine side effects"
+                ],
+                "related_searches_urls": [
+                  "https://www.google.com/search?lr=lang_en&sca_esv=78d783ca4d51d4ce&gl=us&hl=en&tbs=lr:lang_1en&q=Dangers+of+homeopathic+medicine&sa=X&ved=2ahUKEwjx-_aY14OSAxXpkZUCHXUINAUQ1QJ6BAhAEAE",
+                  "https://www.google.com/search?lr=lang_en&sca_esv=78d783ca4d51d4ce&gl=us&hl=en&tbs=lr:lang_1en&q=Homeopathy+examples&sa=X&ved=2ahUKEwjx-_aY14OSAxXpkZUCHXUINAUQ1QJ6BAhUEAE",
+                  "https://www.google.com/search?lr=lang_en&sca_esv=78d783ca4d51d4ce&gl=us&hl=en&tbs=lr:lang_1en&q=Homeopathic+doctor&sa=X&ved=2ahUKEwjx-_aY14OSAxXpkZUCHXUINAUQ1QJ6BAhOEAE",
+                  "https://www.google.com/search?lr=lang_en&sca_esv=78d783ca4d51d4ce&gl=us&hl=en&tbs=lr:lang_1en&q=Homeopathic+medicine+near+me&sa=X&ved=2ahUKEwjx-_aY14OSAxXpkZUCHXUINAUQ1QJ6BAhNEAE",
+                  "https://www.google.com/search?lr=lang_en&sca_esv=78d783ca4d51d4ce&gl=us&hl=en&tbs=lr:lang_1en&q=Homeopathic+medicine+list+With+disease+PDF&sa=X&ved=2ahUKEwjx-_aY14OSAxXpkZUCHXUINAUQ1QJ6BAhLEAE",
+                  "https://www.google.com/search?lr=lang_en&sca_esv=78d783ca4d51d4ce&gl=us&hl=en&tbs=lr:lang_1en&q=Homeopathic+remedies&sa=X&ved=2ahUKEwjx-_aY14OSAxXpkZUCHXUINAUQ1QJ6BAhIEAE",
+                  "https://www.google.com/search?lr=lang_en&sca_esv=78d783ca4d51d4ce&gl=us&hl=en&tbs=lr:lang_1en&q=Homeopathy+vs+Ayurveda&sa=X&ved=2ahUKEwjx-_aY14OSAxXpkZUCHXUINAUQ1QJ6BAhFEAE",
+                  "https://www.google.com/search?lr=lang_en&sca_esv=78d783ca4d51d4ce&gl=us&hl=en&tbs=lr:lang_1en&q=Homeopathic+medicine+side+effects&sa=X&ved=2ahUKEwjx-_aY14OSAxXpkZUCHXUINAUQ1QJ6BAhBEAE"
+                ]
+              }
+            ],
+            "search_information": {
+              "geo_location": "United States",
+              "no_results_for_original_query_found": false,
+              "query": "homeopatija",
+              "showing_results_for": "homeopatija",
+              "time_taken_displayed": null,
+              "total_results_count": 18300
+            },
+            "total_results_count": 18300
+          },
+          "url": "https://www.google.com/search?q=homeopatija&lr=lang_en&uule=w+CAIQICINdW5pdGVkIHN0YXRlcw&gl=us&hl=en"
+        },
+        "errors": [],
+        "status_code": 12000,
+        "task_id": "7416121613197813761"
+      },
+      "headers": {},
+      "status_code": 200,
+      "url": "https://www.google.com/search?q=homeopatija&lr=lang_en&uule=w+CAIQICINdW5pdGVkIHN0YXRlcw&gl=us&hl=en",
+      "query": "homeopatija",
+      "task_id": "7416121613197813761",
+      "created_at": "2026-01-11 14:19:37",
+      "updated_at": "2026-01-11 14:19:59"
+    }
+  ]
+}

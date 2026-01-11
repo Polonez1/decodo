@@ -18,4 +18,4 @@ def main(search_by, page_from, page_count):
 
 
 if __name__ == "__main__":
-    main(search_by="homeopatija", page_from=1, page_count=1)
+    main()
