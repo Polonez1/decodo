@@ -1,7 +1,7 @@
 import requests
 import json
 import pandas as pd
-
+import login
 
 with open("response.json", "r", encoding="utf-8") as f:
     data = json.load(f)
@@ -29,7 +29,7 @@ url = "https://scraper-api.decodo.com/v2/scrape"
 headers = {
     "accept": "application/json",
     "content-type": "application/json",
-    "authorization": "Basic VTAwMDAzMzI5ODI6UFdfMWE5NjU5MGVjNGJjYjYwOGZmNjJjN2I0MjhlNGM5ZDc0",
+    "authorization": f"Basic {login.token}",
 }
 
 
@@ -38,17 +38,15 @@ text_data = []
 n = 1
 for link in urls:
     payload = {"url": link, "headless": "html"}
-    print(link)
-    text_data.append(link)
 
-    # response = requests.post(url, json=payload, headers=headers)
-#
-# text_data.append({"link": link, "text": response.text})
-# n += 1
-# if n == 20:
-#    break
-print(text_data)
-# df = pd.DataFrame(text_data)
-# df.to_excel("scraped_links_text.xlsx", index=False)
-# print(df)
-#
+    response = requests.post(url, json=payload, headers=headers)
+    #
+    text_data.append({"link": link, "text": response.text})
+    n += 1
+    # if n == 20:
+    #   break
+
+
+df = pd.DataFrame(text_data)
+df.to_excel("data.xlsx", index=False)
+print(df)

@@ -10,14 +10,17 @@ password = login.password
 token = login.token
 # patrykkonst123A#
 
-url = "https://scraper-api.decodo.com/v2/scrape"
+
 search_by = "homeopatija"
 
+url = "https://scraper-api.decodo.com/v2/scrape"
+
 payload = {
-    "target": "google",
-    "url": f"https://www.google.com/search?q={search_by}&source=hp&ei=OrK3ZITEEY6Ixc8P3NemmA4&iflsig=AD69kcEAAAAAZLfASni8y8AdTBIjpShc1wPCNRMLoubj&ved=0ahUKEwiEyafav5qAAxUORPEDHdyrCeMQ4dUDCAk&uact=5&oq=pizza&gs_lp=Egdnd3Mtd2l6IgVwaXp6YTILEC4YgAQYxwEY0QMyBRAAGIAEMgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAuGIAEGMcBGK8BMgsQLhiABBjHARivATIFEC4YgARI1ApQgARYyQlwAXgAkAEAmAF1oAGuBKoBAzAuNbgBA8gBAPgBAagCAA&sclient=gws-wiz",
+    "target": "google_search",
+    "query": "homeopatija",
     "headless": "html",
-    "locale": "lt-lt",
+    "page_from": "1",
+    "google_results_language": "en",
     "parse": True,
     "page_count": 10,
 }
@@ -31,5 +34,7 @@ headers = {
 response = requests.post(url, json=payload, headers=headers)
 data = response.json()
 
-with open("response.json", "w", encoding="utf-8") as f:
+with open("response_10.json", "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
+
+print("Done")
